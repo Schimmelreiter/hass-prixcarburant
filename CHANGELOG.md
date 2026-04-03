@@ -1,5 +1,11 @@
 # Changelog
 
+## [3.18.1](https://github.com/Aohzan/hass-prixcarburant/compare/3.18.0...3.18.1) (2026-04-03)
+
+### Bug Fixes
+
+* revert state class because it is not supported by hass with monetary device class ([b8327f2](https://github.com/Aohzan/hass-prixcarburant/commit/b8327f2426259b6cc6cc07b9f360bd331831603e))
+
 ## [3.18.0](https://github.com/Aohzan/hass-prixcarburant/compare/3.17.0...3.18.0) (2026-04-02)
 
 ### Features
