@@ -1,5 +1,11 @@
 # Changelog
 
+## [3.20.0](https://github.com/Aohzan/hass-prixcarburant/compare/3.19.0...3.20.0) (2026-04-05)
+
+### Features
+
+* handle temporary shortage ([#155](https://github.com/Aohzan/hass-prixcarburant/issues/155)) ([9f2286f](https://github.com/Aohzan/hass-prixcarburant/commit/9f2286f3d28b35d3915e9d42cae1bd9281b95203))
+
 ## [3.19.0](https://github.com/Aohzan/hass-prixcarburant/compare/3.18.1...3.19.0) (2026-04-04)
 
 ### Features
