@@ -1,5 +1,11 @@
 # Changelog
 
+## [3.20.2](https://github.com/Aohzan/hass-prixcarburant/compare/3.20.1...3.20.2) (2026-04-10)
+
+### Bug Fixes
+
+* invalid value in days since last update being negative ([#166](https://github.com/Aohzan/hass-prixcarburant/issues/166)) ([f6e5a9c](https://github.com/Aohzan/hass-prixcarburant/commit/f6e5a9cf22ba49c55cc8ad25eec36ce0e5b75a8d))
+
 ## [3.20.0](https://github.com/Aohzan/hass-prixcarburant/compare/3.19.0...3.20.0) (2026-04-05)
 
 ### Features
