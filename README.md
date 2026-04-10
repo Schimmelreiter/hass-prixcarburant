@@ -27,11 +27,11 @@ Search `Prix Carburant` in Integration.
 
 ```yaml
 sensor:
-    - platform: prix_carburant
+  - platform: prix_carburant
     # IDs from https://www.prix-carburants.gouv.fr/
-      stations:
-        - 12345678
-        - 34567890
+    stations:
+      - 12345678
+      - 34567890
 ```
 
 ## Contributing
@@ -45,6 +45,10 @@ The `stations_name.json` file contains information about gas stations with their
 3. Create a pull request
 
 A GitHub workflow will automatically validate the JSON structure and format. If the PR only modifies the stations_name.json file and passes validation, it will be automatically approved and merged.
+
+### Commit messages
+
+When contributing to the codebase, please follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) format for commit messages. This helps maintain a clear and consistent commit history.
 
 ## Crédits
 
