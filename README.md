@@ -48,7 +48,7 @@ A GitHub workflow will automatically validate the JSON structure and format. If 
 
 ### Commit messages
 
-When contributing to the codebase, please follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) format for commit messages. This helps maintain a clear and consistent commit history.
+When contributing to the codebase, please follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) format for commit messages. This helps maintain a clear and consistent commit history, and is used to automatically generate release notes.
 
 ## Crédits
 
