@@ -1,5 +1,11 @@
 # Changelog
 
+## [3.21.0](https://github.com/Aohzan/hass-prixcarburant/compare/3.20.2...3.21.0) (2026-04-10)
+
+### Features
+
+* add German translation ([#164](https://github.com/Aohzan/hass-prixcarburant/issues/164)) ([577a6ec](https://github.com/Aohzan/hass-prixcarburant/commit/577a6ec5f03a4dd30bb3e08c337d9f11dfd9bbe2))
+
 ## [3.20.2](https://github.com/Aohzan/hass-prixcarburant/compare/3.20.1...3.20.2) (2026-04-10)
 
 ### Bug Fixes
