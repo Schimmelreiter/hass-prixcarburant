@@ -1,5 +1,11 @@
 # Changelog
 
+## [3.23.0](https://github.com/Aohzan/hass-prixcarburant/compare/3.22.0...3.23.0) (2026-04-12)
+
+### Features
+
+* configuration URL point directly to the station link ([689db58](https://github.com/Aohzan/hass-prixcarburant/commit/689db58bd61239ed451a10361e93a59042ddbb98))
+
 ## [3.22.0](https://github.com/Aohzan/hass-prixcarburant/compare/3.21.0...3.22.0) (2026-04-12)
 
 ### Features
