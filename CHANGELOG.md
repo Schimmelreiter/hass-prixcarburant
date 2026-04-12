@@ -1,5 +1,11 @@
 # Changelog
 
+## [3.22.0](https://github.com/Aohzan/hass-prixcarburant/compare/3.21.0...3.22.0) (2026-04-12)
+
+### Features
+
+* add logos into the repository ([#174](https://github.com/Aohzan/hass-prixcarburant/issues/174)) ([eecd4e2](https://github.com/Aohzan/hass-prixcarburant/commit/eecd4e24a4dfbede00af538029a31129204e41cd))
+
 ## [3.21.0](https://github.com/Aohzan/hass-prixcarburant/compare/3.20.2...3.21.0) (2026-04-10)
 
 ### Features
