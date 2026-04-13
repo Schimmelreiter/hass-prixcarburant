@@ -185,5 +185,5 @@ class PrixCarburant(CoordinatorEntity, RestoreSensor):
                         err,
                     )
             if fuel.get(ATTR_PRICE) is not None:
-                return float(fuel[ATTR_PRICE])
+                return round(float(fuel[ATTR_PRICE]), 3)
         return None
