@@ -1,5 +1,15 @@
 # Changelog
 
+## [3.24.0](https://github.com/Aohzan/hass-prixcarburant/compare/3.23.0...3.24.0) (2026-04-13)
+
+### Features
+
+* add station ID in sensor attributes ([171245c](https://github.com/Aohzan/hass-prixcarburant/commit/171245c7315fdcc3731101583ad6adfe09a9a52b))
+
+### Bug Fixes
+
+* force round prices ([#176](https://github.com/Aohzan/hass-prixcarburant/issues/176)) ([d919fcf](https://github.com/Aohzan/hass-prixcarburant/commit/d919fcf3ed676df807517db223d2b3189c0dfc97))
+
 ## [3.23.0](https://github.com/Aohzan/hass-prixcarburant/compare/3.22.0...3.23.0) (2026-04-12)
 
 ### Features

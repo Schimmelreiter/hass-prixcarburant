@@ -10479,6 +10479,10 @@
     "name": "U Express KERICHEN",
     "brand": "Système U"
   },
+  "29200019": {
+    "name": "E.Leclerc Brest Phare de l'Europe",
+    "brand": "Leclerc"
+  },
   "29217001": {
     "name": "Intermarché PLOUGONVELIN",
     "brand": "Intermarché"
@@ -18814,6 +18818,10 @@
   "46220003": {
     "name": "Intermarché PRAYSSAC",
     "brand": "Intermarché"
+  },
+  "46230004": {
+    "name": "Total Lalbenque",
+    "brand": "Total"
   },
   "46230005": {
     "name": "Carrefour Lalbenque",
