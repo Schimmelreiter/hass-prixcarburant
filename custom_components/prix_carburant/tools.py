@@ -408,8 +408,6 @@ def get_entity_picture(brand: str) -> str:
         "Carrefour Contact": BRAND_LOGO_BASE_URL + "Carrefour.svg",
         "Carrefour Express": BRAND_LOGO_BASE_URL + "Carrefour.svg",
         "Carrefour Market": BRAND_LOGO_BASE_URL + "Carrefour.svg",
-        "Casino": BRAND_LOGO_BASE_URL + "Casino.svg",
-        "Super Casino": BRAND_LOGO_BASE_URL + "Casino.svg",
         "Costco": BRAND_LOGO_BASE_URL + "Costco.svg",
         "COSTCO": BRAND_LOGO_BASE_URL + "Costco.svg",
         "Dyneff": BRAND_LOGO_BASE_URL + "Dyneff.svg",
