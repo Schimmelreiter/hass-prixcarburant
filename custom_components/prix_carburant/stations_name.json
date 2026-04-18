@@ -475,10 +475,6 @@
     "name": "Intermarché",
     "brand": "Intermarché"
   },
-  "1380001": {
-    "name": "DATS BAGE LA VILLE",
-    "brand": "Colruyt"
-  },
   "1390001": {
     "name": "Carrefour Market",
     "brand": "Carrefour Market"
@@ -1282,10 +1278,6 @@
   "3500004": {
     "name": "RELAIS PARIS PYRENEES",
     "brand": "Avia"
-  },
-  "3500005": {
-    "name": "DATS ST POURCAIN SUR SIOULE",
-    "brand": "Colruyt"
   },
   "3500006": {
     "name": "Station Total access Relais des Beaumenus",
@@ -6567,10 +6559,6 @@
     "name": "GARAGE SANCERROIS SARL FOUCAULT",
     "brand": "Avia"
   },
-  "18300005": {
-    "name": "033 DATS SAINT SATUR",
-    "brand": "Colruyt"
-  },
   "18310001": {
     "name": "Carrefour Contact Graçay",
     "brand": "Carrefour Contact"
@@ -7471,10 +7459,6 @@
     "name": "Total diables bleus",
     "brand": "Total"
   },
-  "21100001": {
-    "name": "STATION DATS",
-    "brand": "Colruyt"
-  },
   "21110001": {
     "name": "ATAC AISEREY",
     "brand": "Atac"
@@ -7747,10 +7731,6 @@
     "name": "AVIA Creux Moreau",
     "brand": "Avia"
   },
-  "21370001": {
-    "name": "008 DATS Velars sur Ouche",
-    "brand": "Colruyt"
-  },
   "21390001": {
     "name": "MAXIMARCHE PRECY SOUS THIL",
     "brand": "Maximarché"
@@ -7851,10 +7831,6 @@
     "name": "Relais du poirier au Loup",
     "brand": "Avia"
   },
-  "21700006": {
-    "name": "014 DATS NUITS",
-    "brand": "Colruyt"
-  },
   "21800001": {
     "name": "Carrefour Market",
     "brand": "Carrefour Market"
@@ -7866,10 +7842,6 @@
   "21800007": {
     "name": "SAS SENNECEYDIS Super U",
     "brand": "Système U"
-  },
-  "21800008": {
-    "name": "DATS CHEVIGNY ST SAUVEUR",
-    "brand": "Colruyt"
   },
   "21800009": {
     "name": "RELAIS QUETIGNY",
@@ -8935,10 +8907,6 @@
     "name": "E.LECLERC",
     "brand": "Leclerc"
   },
-  "25200006": {
-    "name": "DATS Bethoncourt",
-    "brand": "Colruyt"
-  },
   "25210002": {
     "name": "Station guillaume",
     "brand": "Indépendant sans enseigne"
@@ -9115,10 +9083,6 @@
     "name": "SARL VERCELDIS",
     "brand": "Carrefour Express"
   },
-  "25550001": {
-    "name": "DATS BAVANS",
-    "brand": "Colruyt"
-  },
   "25560001": {
     "name": "STATION U",
     "brand": "Système U"
@@ -9167,10 +9131,6 @@
     "name": "Total CUSE ET ADRISANS",
     "brand": "Total"
   },
-  "25700002": {
-    "name": "030 DATS MATHAY",
-    "brand": "Colruyt"
-  },
   "25700003": {
     "name": "RELAIS DU DOUBS",
     "brand": "Total"
@@ -9182,10 +9142,6 @@
   "25720009": {
     "name": "AGIP BEURE ROUTE DE LYON",
     "brand": "Agip"
-  },
-  "25750001": {
-    "name": "DATS ARCEY",
-    "brand": "Colruyt"
   },
   "25800001": {
     "name": "SA ANACO",
@@ -10624,8 +10580,8 @@
     "brand": "Total"
   },
   "29420003": {
-    "name": "Carrefour Contact",
-    "brand": "Colruyt"
+    "name": "Carrefour Contact Plouvorn",
+    "brand": "Carrefour"
   },
   "29430001": {
     "name": "SUPERMARCHE CASINO",
@@ -15755,10 +15711,6 @@
     "name": "CORBEDIS U EXPRESS",
     "brand": "Système U"
   },
-  "38630004": {
-    "name": "DATS VEYRINS-THUELLIN",
-    "brand": "Colruyt"
-  },
   "38640001": {
     "name": "Carrefour Market",
     "brand": "Carrefour Market"
@@ -15818,10 +15770,6 @@
   "38800003": {
     "name": "RELAIS VILLANCOURT",
     "brand": "Total Access"
-  },
-  "38830001": {
-    "name": "023 DATS ST PIERRE D'ALLEVARD",
-    "brand": "Colruyt"
   },
   "38850002": {
     "name": "GARAGE HENRI CHABOUD",
@@ -15890,10 +15838,6 @@
   "39100006": {
     "name": "Intermarché DOLE",
     "brand": "Intermarché"
-  },
-  "39100007": {
-    "name": "DATS DOLE",
-    "brand": "Colruyt"
   },
   "39100008": {
     "name": "PETROL'39",
@@ -16043,10 +15987,6 @@
     "name": "sodipemont",
     "brand": "Système U"
   },
-  "39260001": {
-    "name": "DATS Moirans",
-    "brand": "Colruyt"
-  },
   "39270001": {
     "name": "SARL MASINI - Modern' Garage",
     "brand": "Avia"
@@ -16063,17 +16003,9 @@
     "name": "Intermarché CHAMPAGNOLE",
     "brand": "Intermarché"
   },
-  "39300005": {
-    "name": "STATION DATS",
-    "brand": "Colruyt"
-  },
   "39300006": {
     "name": "station Leclerc Champagnole",
     "brand": "Leclerc"
-  },
-  "39330001": {
-    "name": "004 DATS MOUCHARD",
-    "brand": "Colruyt"
   },
   "39380001": {
     "name": "SAS NIMADIS",
@@ -16094,10 +16026,6 @@
   "39402001": {
     "name": "MOREZ AUTOMOBILES SAS",
     "brand": "Avia"
-  },
-  "39410001": {
-    "name": "DATS SAINT AUBIN",
-    "brand": "Colruyt"
   },
   "39500001": {
     "name": "Super U",
@@ -16139,10 +16067,6 @@
     "name": "Super U",
     "brand": "Système U"
   },
-  "39700007": {
-    "name": "STATION DATS",
-    "brand": "Colruyt"
-  },
   "39700010": {
     "name": "BP A36 AIRE DE DOLE AUDELANGE",
     "brand": "BP"
@@ -16162,10 +16086,6 @@
   "39700014": {
     "name": "Station de Ranchot",
     "brand": "Total"
-  },
-  "39800003": {
-    "name": "STATION DATS",
-    "brand": "Colruyt"
   },
   "40000001": {
     "name": "Carrefour Market",
@@ -17434,10 +17354,6 @@
   "43200006": {
     "name": "STATION J.V.F",
     "brand": "Indépendant sans enseigne"
-  },
-  "43210002": {
-    "name": "031 DATS BAS EN BASSET",
-    "brand": "Colruyt"
   },
   "43220001": {
     "name": "BRUNIEDIS SAS",
@@ -20767,10 +20683,6 @@
     "name": "GARAGE GUENOT SARL",
     "brand": "Avia"
   },
-  "52500002": {
-    "name": "DATS FAYL BILLOT",
-    "brand": "Colruyt"
-  },
   "52540001": {
     "name": "Intermarché",
     "brand": "Intermarché"
@@ -21247,10 +21159,6 @@
     "name": "SARL THOMAS DOSDA",
     "brand": "Total"
   },
-  "54380003": {
-    "name": "029 DATS DIEULOUARD",
-    "brand": "Colruyt"
-  },
   "54380004": {
     "name": "Carrefour Contact",
     "brand": "Carrefour Contact"
@@ -21494,10 +21402,6 @@
   "55210001": {
     "name": "GARAGE EVE",
     "brand": "Total"
-  },
-  "55210002": {
-    "name": "DATS VIGNEULLES LES HATTONCHÂTEL",
-    "brand": "Colruyt"
   },
   "55270002": {
     "name": "as proximite",
@@ -22399,10 +22303,6 @@
     "name": "Intermarché BOUZONVILLE",
     "brand": "Intermarché"
   },
-  "57320003": {
-    "name": "STATION DATS BOUZONVILLE/VAUDRECHING",
-    "brand": "Colruyt"
-  },
   "57340003": {
     "name": "Intermarché MORHANGE",
     "brand": "Intermarché"
@@ -22498,10 +22398,6 @@
   "57500002": {
     "name": "SUPERMARCHE MATCH",
     "brand": "Supermarché Match"
-  },
-  "57510002": {
-    "name": "032 DATS PUTTELANGE AUX LACS",
-    "brand": "Colruyt"
   },
   "57520001": {
     "name": "Carrefour Grosbliederstroff",
@@ -22638,10 +22534,6 @@
   "57970002": {
     "name": "Sas katric",
     "brand": "Intermarché"
-  },
-  "57980001": {
-    "name": "DATS DIEBLING",
-    "brand": "Colruyt"
   },
   "58000001": {
     "name": "GEANT CASINO",
@@ -26736,10 +26628,6 @@
     "name": "Intermarché LATOUR BAS ELNE",
     "brand": "Intermarché"
   },
-  "66200004": {
-    "name": "SUPERMARCHE CASINO",
-    "brand": "Colruyt"
-  },
   "66201001": {
     "name": "SARL GARAGE MARTRE",
     "brand": "Dyneff"
@@ -28849,21 +28737,9 @@
     "name": "Carrefour Contact - FAVERNEY",
     "brand": "Carrefour Contact"
   },
-  "70170002": {
-    "name": "022 DATS PORT SUR SAONE",
-    "brand": "Colruyt"
-  },
   "70180001": {
     "name": "Intermarché SAS JIRD",
     "brand": "Intermarché"
-  },
-  "70180002": {
-    "name": "016 DATS DAMPIERRE",
-    "brand": "Colruyt"
-  },
-  "70190002": {
-    "name": "018 DATS RIOZ",
-    "brand": "Colruyt"
   },
   "70190003": {
     "name": "CASINO RIOZ",
@@ -28893,10 +28769,6 @@
     "name": "RELAIS DU KIRSCH SAS ROMARY RENE ET FILS",
     "brand": "Indépendant sans enseigne"
   },
-  "70220002": {
-    "name": "DATS FOUGEROLLES",
-    "brand": "Colruyt"
-  },
   "70250004": {
     "name": "Carrefour Contact",
     "brand": "Carrefour Contact"
@@ -28904,10 +28776,6 @@
   "70270001": {
     "name": "Station Avia",
     "brand": "Avia"
-  },
-  "70290002": {
-    "name": "013 DATS CHAMPAGNEY",
-    "brand": "Colruyt"
   },
   "70300001": {
     "name": "AUCHAN",
@@ -29237,10 +29105,6 @@
     "name": "Intermarché PIERRE DE BRESSE",
     "brand": "Intermarché"
   },
-  "71290001": {
-    "name": "STATION DATS",
-    "brand": "Colruyt"
-  },
   "71300001": {
     "name": "GEANT CASINO",
     "brand": "Géant"
@@ -29276,10 +29140,6 @@
   "71350002": {
     "name": "SAS SYDO",
     "brand": "Intermarché Contact"
-  },
-  "71360001": {
-    "name": "005 DATS EPINAC",
-    "brand": "Colruyt"
   },
   "71370001": {
     "name": "ATAC ST GERMAIN DU PLAIN",
@@ -29444,10 +29304,6 @@
   "71640002": {
     "name": "GARAGE DUREUIL PATRICE",
     "brand": "Avia"
-  },
-  "71640003": {
-    "name": "DATS GIVRY",
-    "brand": "Colruyt"
   },
   "71670001": {
     "name": "LE-BREUIL-DIS",
@@ -36553,10 +36409,6 @@
     "name": "SODIREM",
     "brand": "Leclerc"
   },
-  "88200008": {
-    "name": "007 DATS CORNIMONT",
-    "brand": "Colruyt"
-  },
   "88200009": {
     "name": "Intermarché REMIREMONT",
     "brand": "Intermarché"
@@ -36568,14 +36420,6 @@
   "88200016": {
     "name": "AGIP AIRE DE PEUXY RN57",
     "brand": "Agip"
-  },
-  "88210002": {
-    "name": "021 DATS SENONES",
-    "brand": "Colruyt"
-  },
-  "88220003": {
-    "name": "026 DATS XERTIGNY",
-    "brand": "Colruyt"
   },
   "88230001": {
     "name": "STE GGE FRAXINIEN BALLAND",
@@ -36661,10 +36505,6 @@
     "name": "Intermarché GERARDMER",
     "brand": "Intermarché"
   },
-  "88400003": {
-    "name": "017 DATS NOMEXY",
-    "brand": "Colruyt"
-  },
   "88400005": {
     "name": "RELAIS DES ROCHIRES",
     "brand": "Total Access"
@@ -36736,10 +36576,6 @@
   "88650002": {
     "name": "Garage BOUILLON",
     "brand": "Total"
-  },
-  "88650003": {
-    "name": "DATS SAINT LEONARD",
-    "brand": "Colruyt"
   },
   "88700001": {
     "name": "Supermarché Match RAMBERVILLERS",
