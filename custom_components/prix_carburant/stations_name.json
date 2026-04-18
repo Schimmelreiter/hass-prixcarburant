@@ -259,10 +259,6 @@
     "name": "Auchan",
     "brand": "Auchan"
   },
-  "1100001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "1100002": {
     "name": "Carrefour Market",
     "brand": "Carrefour Market"
@@ -1539,10 +1535,6 @@
     "name": "SAS L'OLIVERAIE",
     "brand": "Total"
   },
-  "5000001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "5000005": {
     "name": "AUCHAN",
     "brand": "Auchan"
@@ -1915,10 +1907,6 @@
     "name": "BP MANDELIEU RELAIS L'ESTEREL",
     "brand": "BP"
   },
-  "6211001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "6220003": {
     "name": "Intermarché VALLAURIS",
     "brand": "Intermarché"
@@ -1974,10 +1962,6 @@
   "6260002": {
     "name": "SAS PUGEDIS",
     "brand": "Carrefour Market"
-  },
-  "6270001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
   },
   "6270003": {
     "name": "Intermarché VILLENEUVE LOUBET",
@@ -2546,10 +2530,6 @@
   "7410001": {
     "name": "STATION BROSSIER ENERGIES",
     "brand": "BROSSIER"
-  },
-  "7430001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
   },
   "7430002": {
     "name": "Carrefour Market",
@@ -3187,10 +3167,6 @@
     "name": "LECLERC EXPRESS",
     "brand": "Leclerc"
   },
-  "10600001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "10600002": {
     "name": "Carrefour Sainte-Savine",
     "brand": "Carrefour"
@@ -3239,10 +3215,6 @@
     "name": "SAS Les Philippats 2 Station Services",
     "brand": "Intermarché"
   },
-  "11000001": {
-    "name": "GEANT CASINO CITE 2",
-    "brand": "Géant"
-  },
   "11000003": {
     "name": "SAS PEYROT ET FILS",
     "brand": "Total"
@@ -3282,10 +3254,6 @@
   "11000016": {
     "name": "Carrefour PONT ROUGE",
     "brand": "Carrefour"
-  },
-  "11100001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
   },
   "11100002": {
     "name": "DYNEFF Carnot",
@@ -3451,10 +3419,6 @@
     "name": "REGIE MUNICIPALE DES CARBURANTS",
     "brand": "Indépendant sans enseigne"
   },
-  "11400001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "11400002": {
     "name": "DYNEFF Castelnaudary",
     "brand": "Dyneff"
@@ -3543,10 +3507,6 @@
     "name": "Intermarché TREBES",
     "brand": "Intermarché"
   },
-  "11880001": {
-    "name": "GEANT CASINO Salvaza",
-    "brand": "Géant"
-  },
   "12000001": {
     "name": "RELAIS DE L'OCCITANIE",
     "brand": "Total"
@@ -3582,10 +3542,6 @@
   "12000013": {
     "name": "SARL TENZO SL",
     "brand": "Total"
-  },
-  "12100001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
   },
   "12100002": {
     "name": "RELAIS DU STADE",
@@ -3738,10 +3694,6 @@
   "12290003": {
     "name": "Intermarché Contact",
     "brand": "Intermarché Contact"
-  },
-  "12300001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
   },
   "12300003": {
     "name": "Esso GAMBETTA 12",
@@ -3900,8 +3852,8 @@
     "brand": "Indépendant sans enseigne"
   },
   "12850001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
+    "name": "Super U Onet-le-Château",
+    "brand": "Système U"
   },
   "12850002": {
     "name": "HYPERMARCHE E. LECLERC SEBADIS",
@@ -3956,8 +3908,8 @@
     "brand": "Agip"
   },
   "13008001": {
-    "name": "GEANT CASINO Ste Anne",
-    "brand": "Géant"
+    "name": "Intermarché Ste Anne",
+    "brand": "Intermarché"
   },
   "13008004": {
     "name": "Esso SABLIERS",
@@ -4042,10 +3994,6 @@
   "13011020": {
     "name": "Carrefour Contact Saint-Marcel 11e",
     "brand": "Carrefour Contact"
-  },
-  "13012001": {
-    "name": "GEANT CASINO Les CAILLOLS",
-    "brand": "Géant"
   },
   "13012015": {
     "name": "SUPERMARCHÉ Carrefour MARKET",
@@ -4154,10 +4102,6 @@
   "13090019": {
     "name": "AGIP AIX EN PROVENCE RN7",
     "brand": "Agip"
-  },
-  "13097001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
   },
   "13100005": {
     "name": "Esso TOURELLES",
@@ -4543,10 +4487,6 @@
     "name": "Intermarché ROQUEVAIRE",
     "brand": "Intermarché"
   },
-  "13368001": {
-    "name": "GEANT CASINO La Valentine",
-    "brand": "Géant"
-  },
   "13370003": {
     "name": "Intermarché MALLEMORT",
     "brand": "Intermarché"
@@ -4783,10 +4723,6 @@
     "name": "SAS GARAGE DE LA TUILIERE",
     "brand": "Total"
   },
-  "13626001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "13630003": {
     "name": "STATION ASTOUIN",
     "brand": "Indépendant sans enseigne"
@@ -4903,10 +4839,6 @@
     "name": "STATION PELISSIER",
     "brand": "Total"
   },
-  "13751001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "13770001": {
     "name": "BP VENELLES LES CABASSOLS",
     "brand": "BP"
@@ -4926,10 +4858,6 @@
   "13790003": {
     "name": "AVIA ROUSSET",
     "brand": "Avia"
-  },
-  "13800001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
   },
   "13800004": {
     "name": "SODISTRES SA",
@@ -5140,8 +5068,8 @@
     "brand": "Esso Express"
   },
   "14160002": {
-    "name": "SARL STADIS",
-    "brand": "Géant"
+    "name": "Super U Dives-sur-Mer",
+    "brand": "Système U"
   },
   "14160003": {
     "name": "Intermarché DIVES SUR MER",
@@ -5515,10 +5443,6 @@
     "name": "RELAIS PONT JULIEN",
     "brand": "Total Access"
   },
-  "15004001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "15004002": {
     "name": "AURILLAC DISTRIBUTION",
     "brand": "Leclerc"
@@ -5886,10 +5810,6 @@
   "16400002": {
     "name": "Super U Coop Atlantique La Couronne",
     "brand": "Système U"
-  },
-  "16430001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
   },
   "16430004": {
     "name": "Intermarché CHAMPNIERS",
@@ -6531,10 +6451,6 @@
     "name": "Carrefour Market",
     "brand": "Carrefour Market"
   },
-  "18230001": {
-    "name": "GEANT CASINO floreal",
-    "brand": "Géant"
-  },
   "18230004": {
     "name": "LECLERC SAINT DOULCHARD",
     "brand": "Leclerc"
@@ -6830,10 +6746,6 @@
   "19350001": {
     "name": "Carrefour Contact",
     "brand": "Carrefour Contact"
-  },
-  "19360001": {
-    "name": "GEANT BRIVE- FLOREAL YG330",
-    "brand": "Géant"
   },
   "19360002": {
     "name": "VALIBHAY ZOUEBALY",
@@ -7495,10 +7407,6 @@
     "name": "SAS SOFRALDI",
     "brand": "Intermarché"
   },
-  "21121001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "21121003": {
     "name": "Intermarché FONTAINE LES DIJON",
     "brand": "Intermarché"
@@ -7662,10 +7570,6 @@
   "21270001": {
     "name": "ATAC PONTAILLER SUR SAONE",
     "brand": "Atac"
-  },
-  "21300001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
   },
   "21300004": {
     "name": "Super U",
@@ -7855,10 +7759,6 @@
     "name": "SCHIEVER CARBURANTS",
     "brand": "Atac"
   },
-  "22000001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "22000002": {
     "name": "U Express Cesson Saint-Brieuc",
     "brand": "Système U"
@@ -8046,10 +7946,6 @@
   "22290003": {
     "name": "GOELO SERVICES",
     "brand": "Indépendant sans enseigne"
-  },
-  "22300001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
   },
   "22300002": {
     "name": "PERLANDIS 2",
@@ -8843,10 +8739,6 @@
     "name": "Carrefour CHALEZEULE",
     "brand": "Carrefour"
   },
-  "25057001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "25110001": {
     "name": "GARAGE DROZ SARL",
     "brand": "Total"
@@ -8947,10 +8839,6 @@
     "name": "AVIA",
     "brand": "Avia"
   },
-  "25300001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "25300002": {
     "name": "DEFEUILLE CARBURANTS",
     "brand": "Total"
@@ -8994,10 +8882,6 @@
   "25390001": {
     "name": "EURL STATION DE LA VERDOLLE",
     "brand": "Système U"
-  },
-  "25400001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
   },
   "25400003": {
     "name": "Intermarché AUDINCOURT",
@@ -9159,10 +9043,6 @@
     "name": "Station U Devecey",
     "brand": "Système U"
   },
-  "26000001": {
-    "name": "GEANT CASINO valence sud",
-    "brand": "Géant"
-  },
   "26000005": {
     "name": "VALENCE LIBERATION",
     "brand": "Total"
@@ -9307,10 +9187,6 @@
     "name": "Super U",
     "brand": "Système U"
   },
-  "26216001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "26220001": {
     "name": "Super U",
     "brand": "Système U"
@@ -9378,10 +9254,6 @@
   "26290009": {
     "name": "RELAIS DONZERE",
     "brand": "Total Access"
-  },
-  "26300001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
   },
   "26300003": {
     "name": "SARL D. GAUTHIER",
@@ -9574,10 +9446,6 @@
   "26800008": {
     "name": "Eni Portes-lès-Valence",
     "brand": "Eni"
-  },
-  "26902001": {
-    "name": "GEANT CASINO VALENCE 2",
-    "brand": "Géant"
   },
   "27000003": {
     "name": "SUPER U SA PRIMA",
@@ -10003,10 +9871,6 @@
     "name": "RELAIS DE DREUX",
     "brand": "Total Access"
   },
-  "28112001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "28120002": {
     "name": "SA ILLIERS DISTRIBUTION",
     "brand": "Intermarché"
@@ -10251,10 +10115,6 @@
     "name": "Carrefour Market",
     "brand": "Carrefour Market"
   },
-  "29000001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "29000005": {
     "name": "CASINO SUPERMARCHE",
     "brand": "Casino"
@@ -10395,10 +10255,6 @@
     "name": "Carrefour QUIMPER",
     "brand": "Carrefour"
   },
-  "29200001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "29200002": {
     "name": "Super U BREST KEREDERN",
     "brand": "Système U"
@@ -10502,10 +10358,6 @@
   "29290003": {
     "name": "CAFFEROUR Contact LOCMARIA-PLOUZANE",
     "brand": "Carrefour Contact"
-  },
-  "29291001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
   },
   "29300002": {
     "name": "ELLE-DISTRIBUTION",
@@ -11303,10 +11155,6 @@
     "name": "Intermarché CAVEIRAC",
     "brand": "Intermarché"
   },
-  "30900001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "30900002": {
     "name": "Carrefour NIMES VILLE ACTIVE",
     "brand": "Carrefour"
@@ -11386,10 +11234,6 @@
   "31100011": {
     "name": "RELAIS D'ESPAGNE",
     "brand": "Total Access"
-  },
-  "31106001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
   },
   "31110001": {
     "name": "STATION Esso",
@@ -11474,10 +11318,6 @@
   "31140011": {
     "name": "Station 24h/24h E. Leclerc",
     "brand": "Leclerc"
-  },
-  "31150001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
   },
   "31150002": {
     "name": "Super U",
@@ -12443,10 +12283,6 @@
     "name": "Intermarché LANTON",
     "brand": "Intermarché"
   },
-  "33140001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "33140006": {
     "name": "Intermarché CADAUJAC",
     "brand": "Intermarché"
@@ -12554,10 +12390,6 @@
   "33230002": {
     "name": "Intermarché COUTRAS",
     "brand": "Intermarché"
-  },
-  "33240001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
   },
   "33240003": {
     "name": "RELAIS DES QUATRE VENTS",
@@ -12995,10 +12827,6 @@
     "name": "SARL ANPAROS",
     "brand": "Carrefour Contact"
   },
-  "33600001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "33600006": {
     "name": "Esso ALOUETTE PESSAC",
     "brand": "Esso Express"
@@ -13302,10 +13130,6 @@
   "34000015": {
     "name": "RELAIS COSTEBELLE",
     "brand": "Total"
-  },
-  "34070001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
   },
   "34070002": {
     "name": "Auchan Pérols",
@@ -13722,10 +13546,6 @@
   "34530001": {
     "name": "Tabac Station Service Lopez",
     "brand": "Indépendant sans enseigne"
-  },
-  "34535001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
   },
   "34540001": {
     "name": "Carrefour BALARUC",
@@ -14455,10 +14275,6 @@
     "name": "RELAIS SAINT-GREGOIRE",
     "brand": "Total"
   },
-  "35761001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "35770001": {
     "name": "Z VERN SUR SEICHE",
     "brand": "Leclerc"
@@ -15007,10 +14823,6 @@
     "name": "SIMPLY MARKET",
     "brand": "Simply Market"
   },
-  "37520001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "37520002": {
     "name": "Super U LA RICHE",
     "brand": "Système U"
@@ -15511,10 +15323,6 @@
     "name": "Total RN87 MEYLAN",
     "brand": "Total"
   },
-  "38407001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "38420004": {
     "name": "GARAGE BOULLE",
     "brand": "Total"
@@ -15687,10 +15495,6 @@
     "name": "Super U",
     "brand": "Système U"
   },
-  "38600001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "38600003": {
     "name": "Auchan",
     "brand": "Auchan"
@@ -15726,10 +15530,6 @@
   "38660002": {
     "name": "STATION DYNEFF LE TOUVET",
     "brand": "Dyneff"
-  },
-  "38670001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
   },
   "38690001": {
     "name": "Super U",
@@ -15807,10 +15607,6 @@
     "name": "STATION ELAN / AGENT RENAULT",
     "brand": "Elan"
   },
-  "39000001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "39000004": {
     "name": "STATION DE LA MONTAGNE",
     "brand": "Avia"
@@ -15818,10 +15614,6 @@
   "39000007": {
     "name": "RELAIS DU LEVANT",
     "brand": "Total Access"
-  },
-  "39100001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
   },
   "39100003": {
     "name": "Total jmt autos",
@@ -16791,10 +16583,6 @@
     "name": "AGIP ST ETIENNE RUE ACIERIES",
     "brand": "Agip"
   },
-  "42030001": {
-    "name": "GEANT CASINO MONTHIEU",
-    "brand": "Géant"
-  },
   "42100004": {
     "name": "STATION Total SARL RIOUX",
     "brand": "Total"
@@ -16876,8 +16664,8 @@
     "brand": "Intermarché"
   },
   "42150001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
+    "name": "Carrefour La Ricamarie",
+    "brand": "Carrefour"
   },
   "42152001": {
     "name": "Super U",
@@ -17227,10 +17015,6 @@
     "name": "SAINT MARCELLIN EN FOREZ - SARL BR",
     "brand": "Total"
   },
-  "42700001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "42700004": {
     "name": "FIRMINY DISTRIBUTION S.A",
     "brand": "Leclerc"
@@ -17442,10 +17226,6 @@
   "43700002": {
     "name": "STATION J.V.F",
     "brand": "Indépendant sans enseigne"
-  },
-  "43750001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
   },
   "43770001": {
     "name": "STATION J.V.F",
@@ -17674,10 +17454,6 @@
   "44230004": {
     "name": "Intermarché ST SEBASTIEN",
     "brand": "Intermarché"
-  },
-  "44240001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
   },
   "44240004": {
     "name": "Intermarché LA CHAPELLE / ERDRE",
@@ -18035,10 +17811,6 @@
     "name": "BRETECHE",
     "brand": "Avia"
   },
-  "44600001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "44600002": {
     "name": "Super U ST NAZAIRE",
     "brand": "Système U"
@@ -18284,8 +18056,8 @@
     "brand": "Agip"
   },
   "45200001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
+    "name": "Carrefour Amilly",
+    "brand": "Carrefour"
   },
   "45200003": {
     "name": "SARL DROUILLEAU",
@@ -18891,10 +18663,6 @@
     "name": "Intermarché AIGUILLON",
     "brand": "Intermarché"
   },
-  "47200001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "47200002": {
     "name": "SARL G.R.G.",
     "brand": "Total"
@@ -19099,10 +18867,6 @@
     "name": "RELAIS PASSAGE D'AGEN",
     "brand": "Total Access"
   },
-  "47550001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "47550007": {
     "name": "RELAIS BON ENCONTRE",
     "brand": "Total Access"
@@ -19283,10 +19047,6 @@
     "name": "GARAGE DE LA REGORDANE",
     "brand": "Avia"
   },
-  "49000001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "49000002": {
     "name": "Carrefour ANGERS GRAND MAINE",
     "brand": "Carrefour"
@@ -19450,10 +19210,6 @@
   "49290002": {
     "name": "Intermarché CHALONNES SUR LOIRE",
     "brand": "Intermarché"
-  },
-  "49300001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
   },
   "49300007": {
     "name": "Carrefour CHOLET",
@@ -19954,10 +19710,6 @@
   "50370005": {
     "name": "sarl aumont combustible",
     "brand": "Total"
-  },
-  "50380001": {
-    "name": "GEANT CASINO ST PAIR SUR MER",
-    "brand": "Géant"
   },
   "50390001": {
     "name": "Station U",
@@ -20522,10 +20274,6 @@
   "51800012": {
     "name": "AVIA -AIRE DE VALMY LE MOULIN",
     "brand": "Avia"
-  },
-  "52000001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
   },
   "52000005": {
     "name": "Esso GLORIETTE",
@@ -21507,10 +21255,6 @@
     "name": "RELAIS LORIENT PORT",
     "brand": "Total Access"
   },
-  "56109001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "56110001": {
     "name": "INAM DISTRIBUTION",
     "brand": "Leclerc"
@@ -21872,8 +21616,8 @@
     "brand": "Avia"
   },
   "56607001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
+    "name": "Carrefour Lanester",
+    "brand": "Carrefour"
   },
   "56610001": {
     "name": "Super U ARRADON",
@@ -22534,10 +22278,6 @@
   "57970002": {
     "name": "Sas katric",
     "brand": "Intermarché"
-  },
-  "58000001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
   },
   "58000002": {
     "name": "Carrefour Market",
@@ -25434,10 +25174,6 @@
     "brand": "Intermarché",
     "address": "40 boulevard Berthelot"
   },
-  "63100001": {
-    "name": "Géant Casino",
-    "brand": "Géant"
-  },
   "63100003": {
     "name": "Auchan",
     "brand": "Auchan"
@@ -25976,10 +25712,6 @@
     "name": "SARL Soule Automobiles",
     "brand": "Total"
   },
-  "64140001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "64140003": {
     "name": "CASINO SUPERMARCHE",
     "brand": "Casino"
@@ -26292,10 +26024,6 @@
     "name": "Intermarché Contact ARAMITS",
     "brand": "Intermarché Contact"
   },
-  "64600001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "64600002": {
     "name": "Carrefour ANGLET BAB2",
     "brand": "Carrefour"
@@ -26465,8 +26193,8 @@
     "brand": "Avia"
   },
   "65310001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
+    "name": "Carrefour Laloubère",
+    "brand": "Carrefour"
   },
   "65370002": {
     "name": "Contact LOURES BAROUSSE",
@@ -27636,10 +27364,6 @@
     "name": "RELAIS DES 3 FRONTIERES",
     "brand": "Total Access"
   },
-  "68307001": {
-    "name": "GEANT SAINT-LOUIS",
-    "brand": "Géant"
-  },
   "68310001": {
     "name": "SUPER U - MAISON CORRADI SAS",
     "brand": "Système U"
@@ -28506,8 +28230,8 @@
     "brand": "Esso"
   },
   "69658001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
+    "name": "Carrefour Villefranche-sur-Saone",
+    "brand": "Carrefour"
   },
   "69670002": {
     "name": "SARL LFM",
@@ -28885,10 +28609,6 @@
     "name": "BP TRUCKSTOP DE MACON",
     "brand": "BP"
   },
-  "71100001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "71100002": {
     "name": "Carrefour CHALON SUD",
     "brand": "Carrefour"
@@ -29017,10 +28737,6 @@
     "name": "AGIP LE CREUSOT ROUTE DE MONTCENIS",
     "brand": "Agip"
   },
-  "71210001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "71210006": {
     "name": "Intermarché MONTCHANIN",
     "brand": "Intermarché"
@@ -29104,10 +28820,6 @@
   "71270005": {
     "name": "Intermarché PIERRE DE BRESSE",
     "brand": "Intermarché"
-  },
-  "71300001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
   },
   "71300009": {
     "name": "Intermarché GOURDON",
@@ -29877,10 +29589,6 @@
     "name": "DVSA",
     "brand": "Total"
   },
-  "73204001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "73220002": {
     "name": "Carrefour Contact",
     "brand": "Carrefour Contact"
@@ -30108,10 +29816,6 @@
   "74000017": {
     "name": "AGIP ANNECY ALLUEGES",
     "brand": "Agip"
-  },
-  "74100001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
   },
   "74100005": {
     "name": "Esso DES VALLEES",
@@ -30472,10 +30176,6 @@
   "74570008": {
     "name": "AVIA",
     "brand": "Avia"
-  },
-  "74600001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
   },
   "74600004": {
     "name": "OSWIAK BERNARD",
@@ -32833,10 +32533,6 @@
     "name": "NIORT OUEST DISTRIBUTION",
     "brand": "Leclerc"
   },
-  "79025001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "79025002": {
     "name": "TRENTE ORMEAUX DISTRIBUTION",
     "brand": "Leclerc"
@@ -33538,8 +33234,8 @@
     "brand": "Shell"
   },
   "81000001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
+    "name": "Carrefour Albi",
+    "brand": "Carrefour"
   },
   "81000002": {
     "name": "RELAIS DES FONTANELLES",
@@ -33576,10 +33272,6 @@
   "81000011": {
     "name": "SARL RELAIS DE LA FAIENCERIE",
     "brand": "Fina"
-  },
-  "81100001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
   },
   "81100003": {
     "name": "REL.SAINT PONS",
@@ -34441,10 +34133,6 @@
     "name": "Super U",
     "brand": "Système U"
   },
-  "83400001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "83400003": {
     "name": "M. ZERAFA PHILIPPE",
     "brand": "BP"
@@ -34641,17 +34329,9 @@
     "name": "STATION SERVICE AVIA EXPRESS",
     "brand": "Avia"
   },
-  "83580001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "83580003": {
     "name": "SARL JOCATI",
     "brand": "Avia"
-  },
-  "83600001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
   },
   "83600010": {
     "name": "Station service gallieni Avia",
@@ -34794,8 +34474,8 @@
     "brand": "Indépendant sans enseigne"
   },
   "84000001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
+    "name": "Carrefour Avignon Sémard",
+    "brand": "Carrefour"
   },
   "84000007": {
     "name": "SARL BRELY",
@@ -35341,10 +35021,6 @@
     "name": "Carrefour Contact",
     "brand": "Carrefour Contact"
   },
-  "85180001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
-  },
   "85180003": {
     "name": "Intermarché CHÂTEAU D'OLONNE",
     "brand": "Intermarché"
@@ -35697,10 +35373,6 @@
     "name": "RELAIS Total Access DE LA BUGELLERIE",
     "brand": "Total Access"
   },
-  "86011002": {
-    "name": "Géant Casino",
-    "brand": "Géant"
-  },
   "86036001": {
     "name": "E. LECLERC Poitiers",
     "brand": "Leclerc"
@@ -35972,10 +35644,6 @@
   "86800004": {
     "name": "Carrefour Contact",
     "brand": "Carrefour Contact"
-  },
-  "87000001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
   },
   "87000002": {
     "name": "Carrefour Market",
@@ -36276,10 +35944,6 @@
   "87800002": {
     "name": "Super U NEXON",
     "brand": "Système U"
-  },
-  "88000001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
   },
   "88000002": {
     "name": "SIMPLY MARKET",
@@ -36604,10 +36268,6 @@
   "88800002": {
     "name": "Carrefour Market",
     "brand": "Carrefour Market"
-  },
-  "89000001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
   },
   "89000002": {
     "name": "ATAC AUXERRE",
@@ -37207,10 +36867,6 @@
   "91230005": {
     "name": "BP MONTGERON",
     "brand": "BP"
-  },
-  "91240001": {
-    "name": "GEANT CASINO",
-    "brand": "Géant"
   },
   "91240003": {
     "name": "BP ST MICHEL SUR ORGE",
