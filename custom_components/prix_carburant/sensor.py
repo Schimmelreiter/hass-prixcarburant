@@ -120,7 +120,7 @@ class PrixCarburant(CoordinatorEntity, RestoreSensor):
         self._attr_unique_id = "_".join([DOMAIN, str(self.station_id), self.fuel])
         if self.station_info[ATTR_NAME] != "undefined":
             # Use name if available
-            station_name = f"{self.station_info[ATTR_NAME]}"
+            station_name = self.station_info[ATTR_NAME]
         else:
             if self.station_info[ATTR_BRAND] != None and self.station_info[ATTR_CITY] != None:
                 # Construct name using brand and city
