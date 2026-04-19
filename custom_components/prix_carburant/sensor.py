@@ -125,8 +125,7 @@ class PrixCarburant(CoordinatorEntity, RestoreSensor):
             if self.station_info[ATTR_BRAND] and self.station_info[ATTR_CITY]:
                 # Construct name using brand and city
                 station_name = f"{self.station_info[ATTR_BRAND]} {self.station_info[ATTR_CITY]}"
-            else:
-                if self.station_info[ATTR_BRAND] != None:
+            elif self.station_info[ATTR_BRAND]:
                     # Construct name using brand and station ID
                     station_name = f"{self.station_info[ATTR_BRAND]} {self.station_id}"
                 else:
