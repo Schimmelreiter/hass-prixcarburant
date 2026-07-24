@@ -35,7 +35,11 @@ from .const import (
     DOMAIN,
     FUELS,
 )
-from .tools import PrixCarburantTool
+from .tools import (
+    PrixCarburantTool,
+    PrixCarburantToolCannotConnectError,
+    PrixCarburantToolRequestError,
+)
 
 
 def _build_schema(data: Mapping[str, Any], options: Mapping[str, Any]) -> vol.Schema:
@@ -44,7 +48,9 @@ def _build_schema(data: Mapping[str, Any], options: Mapping[str, Any]) -> vol.Sc
 
     # For initial setup, only show max distance and fuel selection
     schema = {
-        vol.Required(CONF_MAX_KM, default=config.get(CONF_MAX_KM, DEFAULT_MAX_KM)): int
+        vol.Required(
+            CONF_MAX_KM, default=config.get(CONF_MAX_KM, DEFAULT_MAX_KM)
+        ): vol.All(int, vol.Range(min=1))
     }
 
     for fuel in FUELS:
@@ -111,6 +117,14 @@ class PrixCarburantOptionsFlowHandler(OptionsFlow):
         """Initialize options flow."""
         self._stations_to_remove: list[str] = []
 
+    def _get_manual_stations(self) -> list[int]:
+        """Get manual stations list from config entry data/options."""
+        return list(
+            self.config_entry.data.get(CONF_MANUAL_STATIONS)
+            or self.config_entry.options.get(CONF_MANUAL_STATIONS)
+            or []
+        )
+
     async def async_step_init(
         self,
         user_input: dict[str, Any] | None = None,  # noqa: ARG002
@@ -165,7 +179,7 @@ class PrixCarburantOptionsFlowHandler(OptionsFlow):
                 vol.Required(
                     CONF_MAX_KM,
                     default=config.get(CONF_MAX_KM, DEFAULT_MAX_KM),
-                ): int,
+                ): vol.All(int, vol.Range(min=1)),
             }
         )
 
@@ -225,11 +239,7 @@ class PrixCarburantOptionsFlowHandler(OptionsFlow):
                 errors["station_id"] = "invalid_station_id"
             else:
                 # Check if already exists in manual stations
-                manual_stations = list(
-                    self.config_entry.data.get(CONF_MANUAL_STATIONS)
-                    or self.config_entry.options.get(CONF_MANUAL_STATIONS)
-                    or []
-                )
+                manual_stations = self._get_manual_stations()
 
                 if station_id in manual_stations:
                     errors["station_id"] = "station_already_exists"
@@ -238,7 +248,7 @@ class PrixCarburantOptionsFlowHandler(OptionsFlow):
                     coordinator = self.hass.data[DOMAIN][self.config_entry.entry_id][
                         "coordinator"
                     ]
-                    if str(station_id) in coordinator.data:
+                    if station_id in coordinator.data:
                         errors["station_id"] = "station_already_exists"
                     else:
                         # Validate station exists in API
@@ -324,12 +334,7 @@ class PrixCarburantOptionsFlowHandler(OptionsFlow):
                     self._remove_station_entities(entity_reg, station_id)
                     self._remove_station_device(device_reg, station_id)
 
-                # Get current manual stations list from both data and options
-                manual_stations = list(
-                    self.config_entry.data.get(CONF_MANUAL_STATIONS)
-                    or self.config_entry.options.get(CONF_MANUAL_STATIONS)
-                    or []
-                )
+                manual_stations = self._get_manual_stations()
 
                 # Remove selected stations from manual list
                 for station_id in stations_to_remove:
@@ -360,12 +365,7 @@ class PrixCarburantOptionsFlowHandler(OptionsFlow):
         if not stations:
             return self.async_abort(reason="no_stations")
 
-        # Get manual stations list from both data and options
-        manual_stations = (
-            self.config_entry.data.get(CONF_MANUAL_STATIONS)
-            or self.config_entry.options.get(CONF_MANUAL_STATIONS)
-            or []
-        )
+        manual_stations = self._get_manual_stations()
 
         # Build station list - only manual stations
         station_options = {}
@@ -401,18 +401,15 @@ class PrixCarburantOptionsFlowHandler(OptionsFlow):
 
     async def _validate_station_id(self, station_id: int) -> tuple[bool, str]:
         """Validate station ID by checking API."""
-        api_ssl_check = True
         try:
             websession = async_get_clientsession(self.hass)
-            tool = await self.hass.async_add_executor_job(
-                PrixCarburantTool,
+            tool = PrixCarburantTool(
                 self.hass.config.time_zone,
                 60,
-                api_ssl_check,
-                websession,
+                api_ssl_check=True,
+                session=websession,
             )
 
-            # Try to fetch station from API
             response = await tool.request_api(
                 {
                     "select": "id",
@@ -420,7 +417,11 @@ class PrixCarburantOptionsFlowHandler(OptionsFlow):
                     "limit": 1,
                 }
             )
-        except ClientError:
+        except (
+            ClientError,
+            PrixCarburantToolCannotConnectError,
+            PrixCarburantToolRequestError,
+        ):
             return False, "station_not_found"
         else:
             if response["total_count"] == 1:
