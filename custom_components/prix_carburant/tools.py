@@ -39,8 +39,8 @@ STATIONS_NAME_OSM_URL = (
 )
 STATIONS_NAME_OSM_FILE = "stations_name_osm.csv"
 STATIONS_NAME_FILE = "stations_name.json"
-STATIONS_NAME_URL = "https://raw.githubusercontent.com/Aohzan/hass-prixcarburant/refs/heads/master/custom_components/prix_carburant/stations_name.json"
-BRAND_LOGO_BASE_URL = "https://raw.githubusercontent.com/Aohzan/hass-prixcarburant/refs/heads/master/brand_logos/"
+STATIONS_NAME_URL = "https://raw.githubusercontent.com/Schimmelreiter/hass-prixcarburant/refs/heads/master/custom_components/prix_carburant/stations_name.json"
+BRAND_LOGO_BASE_URL = "https://raw.githubusercontent.com/Schimmelreiter/hass-prixcarburant/refs/heads/master/brand_logos/"
 HTTP_OK = 200
 HTTP_TOO_MANY_REQUESTS = 429
 HTTP_INTERNAL_SERVER_ERROR = 500
@@ -671,12 +671,7 @@ _BRAND_LOGOS: dict[str, str] = {
     "Carrefour Contact": BRAND_LOGO_BASE_URL + "Carrefour.svg",
     "Carrefour Express": BRAND_LOGO_BASE_URL + "Carrefour.svg",
     "Carrefour Market": BRAND_LOGO_BASE_URL + "Carrefour.svg",
-    "Casino": BRAND_LOGO_BASE_URL + "Casino.svg",
-    "COLRUYT": BRAND_LOGO_BASE_URL + "Colruyt.svg",
-    "CORA": BRAND_LOGO_BASE_URL + "Cora.svg",
     "COSTCO": BRAND_LOGO_BASE_URL + "Costco.svg",
-    "Colruyt": BRAND_LOGO_BASE_URL + "Colruyt.svg",
-    "Cora": BRAND_LOGO_BASE_URL + "Cora.svg",
     "Costco": BRAND_LOGO_BASE_URL + "Costco.svg",
     "Dyneff": BRAND_LOGO_BASE_URL + "Dyneff.svg",
     "ENI": BRAND_LOGO_BASE_URL + "Eni.svg",
@@ -688,7 +683,6 @@ _BRAND_LOGOS: dict[str, str] = {
     "Esso Express": BRAND_LOGO_BASE_URL + "Esso.svg",
     "Fulli": BRAND_LOGO_BASE_URL + "Fulli.svg",
     "G20": BRAND_LOGO_BASE_URL + "G20.svg",
-    "Géant": BRAND_LOGO_BASE_URL + "Geant_Casino.svg",
     "Gulf": BRAND_LOGO_BASE_URL + "Gulf.svg",
     "Huit à 8": BRAND_LOGO_BASE_URL + "8_A_Huit.svg",
     "Intermarché": BRAND_LOGO_BASE_URL + "Intermarche.svg",
@@ -713,7 +707,6 @@ _BRAND_LOGOS: dict[str, str] = {
     "Shell": BRAND_LOGO_BASE_URL + "Shell.svg",
     "Simply Market": BRAND_LOGO_BASE_URL + "Auchan.svg",
     "Station U": BRAND_LOGO_BASE_URL + "Hyper-U.svg",
-    "Super Casino": BRAND_LOGO_BASE_URL + "Casino.svg",
     "Super U": BRAND_LOGO_BASE_URL + "Hyper-U.svg",
     "Supermarché G20": BRAND_LOGO_BASE_URL + "G20.svg",
     "Supermarché Match": BRAND_LOGO_BASE_URL + "Match.svg",

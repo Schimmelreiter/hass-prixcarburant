@@ -25,7 +25,8 @@ jobs:
 
   release:
     needs: [ci, validate]
-    if: github.event_name == 'push' && github.ref_name == github.event.repository.default_branch
+    # Fork: only release from the upstream repository
+    if: github.repository == 'Aohzan/hass-prixcarburant' && github.event_name == 'push' && github.ref_name == github.event.repository.default_branch
     permissions:
       contents: write
       issues: write
