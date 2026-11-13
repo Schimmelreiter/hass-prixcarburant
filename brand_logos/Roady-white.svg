@@ -16,12 +16,14 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs>
     <style>
-      .s2 { fill: #ffffff }
+      /* brand grey, lighter on dark and darker on light backgrounds,
+         with a thin white outline */
+      .s2 { fill: #d3d3d3; stroke: #ffffff; stroke-width: 24.38px; stroke-linejoin: round; paint-order: stroke }
 
       @media (prefers-color-scheme: light) {
-      .s2 { fill: #000000 }
+      .s2 { fill: #434343 }
       }
-  </style>
+</style>
      id="defs15"
   </defs>
   <sodipodi:namedview

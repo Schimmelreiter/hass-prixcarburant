@@ -14,16 +14,14 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs>
      <style>
-      .color {
-	    fill: white;
-      }
+      /* brand grey, lighter on dark and darker on light backgrounds,
+         with a thin white outline */
+      .color { fill: #d3d3d3; stroke: #ffffff; stroke-width: 1.08px; stroke-linejoin: round; paint-order: stroke }
 
       @media (prefers-color-scheme: light) {
-        .color {
-          fill: black;
-        }
+      .color { fill: #434343 }
       }
-     </style>
+</style>
      id="defs2"
   </defs>
   <sodipodi:namedview
