@@ -272,7 +272,7 @@
     "brand": "Total"
   },
   "1120008": {
-    "name": "RELAIS DE DAGNEUX",
+    "name": "TotalEnergies Aire de Lyon-Montluel (E611/A42)",
     "brand": "Total"
   },
   "1130002": {
@@ -356,7 +356,7 @@
     "brand": "Avia"
   },
   "1250005": {
-    "name": "RELAIS BOURG JASSERON",
+    "name": "TotalEnergies Aire de Bourg Jasseron (E62/A40)",
     "brand": "Total"
   },
   "1290001": {
@@ -412,7 +412,7 @@
     "brand": "Total"
   },
   "1390009": {
-    "name": "A46 AIRE DE MIONNAY EST- SENS SUD NORD",
+    "name": "Eni Aire de Mionnay Est (E15/A46)",
     "brand": "Eni"
   },
   "1400001": {
@@ -428,7 +428,7 @@
     "brand": "Netto"
   },
   "1430003": {
-    "name": "ENI CEIGNES A40 SENS ANNECY BOURG EN BRESSE",
+    "name": "Eni Aire de Ceignes Haut-Bugey (E62/A40)",
     "brand": "Eni"
   },
   "1430004": {
@@ -436,7 +436,7 @@
     "brand": "Avia"
   },
   "1430005": {
-    "name": "RELAIS DE CEIGNES CERDON",
+    "name": "TotalEnergies Aire de Ceignes-Cerdon (E62/A40)",
     "brand": "Total"
   },
   "1440001": {
@@ -528,7 +528,7 @@
     "brand": "Esso Express"
   },
   "1700004": {
-    "name": "SAS BEDIS",
+    "name": "E.Leclerc Aire de Beynost (E611/A42)",
     "brand": "Leclerc"
   },
   "1710001": {
@@ -2816,7 +2816,7 @@
     "brand": "Indépendant sans enseigne"
   },
   "12150006": {
-    "name": "RELAIS SEVERAC LE CHÂTEAU",
+    "name": "TotalEnergies Aire de l'Aveyron (E11/A75)",
     "brand": "Total"
   },
   "12160002": {
@@ -5932,7 +5932,7 @@
     "brand": "Avia"
   },
   "21250005": {
-    "name": "SARL BRYSSE",
+    "name": "AVIA Aire de Glanon (E60/A36)",
     "brand": "Avia"
   },
   "21250006": {
@@ -5940,7 +5940,7 @@
     "brand": "Intermarché"
   },
   "21250009": {
-    "name": "SARL BRYSSE",
+    "name": "AVIA Aire du Bois Guillerot (E60/A36)",
     "brand": "Avia"
   },
   "21260001": {
@@ -7052,7 +7052,7 @@
     "brand": "Total Access"
   },
   "25640007": {
-    "name": "RELAIS DES MARCHAUX",
+    "name": "TotalEnergies Aire de Besançon-Marchaux (E60/A36)",
     "brand": "Total"
   },
   "25640008": {
@@ -7360,7 +7360,7 @@
     "brand": "Total"
   },
   "26730006": {
-    "name": "Esso Porte de la Drome",
+    "name": "Esso Aire Porte de la Drôme (E713/A49)",
     "brand": "Esso"
   },
   "26740003": {
@@ -10580,7 +10580,7 @@
     "brand": "Total Access"
   },
   "34520002": {
-    "name": "RELAIS DU CAYLAR",
+    "name": "TotalEnergies Aire du Caylar (E11/A75)",
     "brand": "Total"
   },
   "34530001": {
@@ -11664,11 +11664,11 @@
     "brand": "Carrefour"
   },
   "38080006": {
-    "name": "RELAIS DU LOMBARD",
+    "name": "TotalEnergies Aire de l'Isle d'Abeau Nord (E70/A43)",
     "brand": "Total"
   },
   "38080007": {
-    "name": "AVIA SARL KARADEMIR",
+    "name": "AVIA Aire de l'Isle d'Abeau Sud (E70/A43)",
     "brand": "Avia"
   },
   "38090004": {
@@ -11756,7 +11756,7 @@
     "brand": "Carrefour Market"
   },
   "38190004": {
-    "name": "Esso DU GRESIVAUDAN",
+    "name": "Esso Aire de Bois Claret (E712/A41)",
     "brand": "Esso"
   },
   "38200004": {
@@ -11924,15 +11924,15 @@
     "brand": "Esso Express"
   },
   "38330006": {
-    "name": "Station AVIA St Nazaire Les Eymes",
-    "brand": "AVIA"
+    "name": "AVIA Aire de Saint-Nazaire-les-Eymes (E712/A41)",
+    "brand": "Avia"
   },
   "38340006": {
     "name": "STATION U / SA CHARANDIS",
     "brand": "Système U"
   },
   "38340011": {
-    "name": "RELAIS VOREPPE",
+    "name": "TotalEnergies Aire de Voreppe (E711/A48)",
     "brand": "Total"
   },
   "38340012": {
@@ -12036,7 +12036,7 @@
     "brand": "Total"
   },
   "38480005": {
-    "name": "AVIA ROMAGNIEU",
+    "name": "AVIA Aire du Guiers Nord (E70/A43)",
     "brand": "Avia"
   },
   "38480006": {
@@ -12044,7 +12044,7 @@
     "brand": "Leclerc"
   },
   "38480007": {
-    "name": "Aire du Guiers",
+    "name": "Esso Aire du Guiers Sud (E70/A43)",
     "brand": "Esso"
   },
   "38490004": {
@@ -12276,7 +12276,7 @@
     "brand": "Système U"
   },
   "39140006": {
-    "name": "ENI AIRE DU JURA A39",
+    "name": "Eni Aire du Jura (E21/A39)",
     "brand": "Eni"
   },
   "39150001": {
@@ -17508,7 +17508,7 @@
     "brand": "Total Access"
   },
   "57740008": {
-    "name": "ESSO LONGEVILLE SUD",
+    "name": "Esso Aire de Longeville-Sud (E25/A4)",
     "brand": "Esso"
   },
   "57790001": {
@@ -19882,7 +19882,7 @@
     "brand": "Indépendant"
   },
   "63190011": {
-    "name": "Relais d'Orléat",
+    "name": "TotalEnergies Aire de Limagne Sud (E70/A89)",
     "brand": "Total"
   },
   "63200001": {
@@ -20130,7 +20130,7 @@
     "brand": "Total"
   },
   "63960002": {
-    "name": "Station Avia",
+    "name": "AVIA Aire de Veyre (E11/A75)",
     "brand": "Avia"
   },
   "63960005": {
@@ -21226,7 +21226,7 @@
     "brand": "Auchan"
   },
   "67540003": {
-    "name": "Station Service Shell",
+    "name": "Shell Aire des Chaumes Est (E25/A35)",
     "brand": "Shell"
   },
   "67550003": {
@@ -21254,7 +21254,7 @@
     "brand": "Supermarché Match"
   },
   "67600003": {
-    "name": "SODIPLEC HAUT KOENISBOURG",
+    "name": "E.Leclerc Aire du Haut-Koenigsbourg (E25/A35)",
     "brand": "Leclerc"
   },
   "67600004": {
@@ -21602,7 +21602,7 @@
     "brand": "Avia"
   },
   "68390004": {
-    "name": "RELAIS BATTENHEIM",
+    "name": "TotalEnergies Aire de Battenheim (E25/A35)",
     "brand": "Total"
   },
   "68400001": {
@@ -21650,7 +21650,7 @@
     "brand": "Système U"
   },
   "68520006": {
-    "name": "RELAIS DIEFMATTEN",
+    "name": "TotalEnergies Aire de la Porte d’Alsace (E60/A36)",
     "brand": "Total"
   },
   "68540001": {
@@ -22003,7 +22003,7 @@
     "brand": "Esso Express"
   },
   "69340003": {
-    "name": "SHELL ROUSSILLON",
+    "name": "Shell Aire de Roussillon (E15/A7)",
     "brand": "Shell"
   },
   "69350003": {
@@ -22015,12 +22015,12 @@
     "brand": "Système U"
   },
   "69360012": {
-    "name": "RELAIS DE TERNAY",
-    "brand": "Total"
+    "name": "TotalEnergies Aire de Communay-Nord (E15/A46)",
+    "brand": "Total Access"
   },
   "69360013": {
-    "name": "RELAIS COMMUNAY",
-    "brand": "Total"
+    "name": "TotalEnergies Aire de Communay-Sud (E15/A46)",
+    "brand": "Total Access"
   },
   "69360015": {
     "name": "RELAIS DE L'OZON",
@@ -22259,11 +22259,11 @@
     "brand": "Carrefour Market"
   },
   "69800012": {
-    "name": "ESSO AIRE DE SAINT PRIEST",
+    "name": "Esso Aire de Saint-Priest (E70/A43)",
     "brand": "Esso"
   },
   "69800013": {
-    "name": "ESSO A43 AIRE DE MANISSIEUX",
+    "name": "Esso Aire de Manissieux (E70/A43)",
     "brand": "Esso"
   },
   "69800014": {
@@ -23235,7 +23235,7 @@
     "brand": "Leclerc"
   },
   "73190002": {
-    "name": "ESSO A43 AIRE DE L'ABIS",
+    "name": "Esso Aire de l’Abis (E70/A43)",
     "brand": "Esso"
   },
   "73200001": {
@@ -23355,7 +23355,7 @@
     "brand": "Leclerc"
   },
   "73420005": {
-    "name": "RELAIS DE DRUMETTAZ",
+    "name": "TotalEnergies Aire de Drumettaz (E712/A41)",
     "brand": "Total"
   },
   "73460002": {
@@ -23411,7 +23411,7 @@
     "brand": "Intermarché"
   },
   "73800001": {
-    "name": "ESSO A41 AIRE DU GRANIER",
+    "name": "Esso Aire du Granier (E712/A41)",
     "brand": "Esso"
   },
   "73800002": {
@@ -23707,7 +23707,7 @@
     "brand": "Carrefour Market"
   },
   "74600013": {
-    "name": "REL. DE LA RIPAILLE",
+    "name": "TotalEnergies Aire de la Ripaille (E712/A41)",
     "brand": "Total"
   },
   "74700001": {
@@ -30529,5 +30529,109 @@
   "86000025": {
     "name": "Intermarché BEAULIEU",
     "brand": "Intermarché"
+  },
+  "67540006": {
+    "name": "Shell Aire des Chaumes Ouest (E25/A35)",
+    "brand": "Shell"
+  },
+  "25150006": {
+    "name": "Fulli Aire d'Écot (E60/A36)",
+    "brand": "Fulli"
+  },
+  "25640009": {
+    "name": "Shell Aire de Besançon Champoux (E60/A36)",
+    "brand": "Shell"
+  },
+  "39700015": {
+    "name": "AVIA Aire de Dole Audelange (E60/A36)",
+    "brand": "Avia"
+  },
+  "39700017": {
+    "name": "AVIA Aire de Dole Romange (E60/A36)",
+    "brand": "Avia"
+  },
+  "68520011": {
+    "name": "Eni Aire de la Porte d’Alsace (E60/A36)",
+    "brand": "Eni"
+  },
+  "21130009": {
+    "name": "E.Leclerc Aire de Pont Val de Saône (E21/A39)",
+    "brand": "Leclerc"
+  },
+  "21130010": {
+    "name": "E.Leclerc Aire de Pont Chêne d’Argent (E21/A39)",
+    "brand": "Leclerc"
+  },
+  "71480007": {
+    "name": "AVIA Aire du Poulet de Bresse (E21/A39)",
+    "brand": "Avia"
+  },
+  "57740010": {
+    "name": "Eni Aire de Longeville-Nord (E25/A4)",
+    "brand": "Eni"
+  },
+  "1250007": {
+    "name": "Fulli Aire de Bourg Teyssonge (E62/A40)",
+    "brand": "Fulli"
+  },
+  "74520009": {
+    "name": "TotalEnergies Aire de Valleiry Nord (E62/A40)",
+    "brand": "Total"
+  },
+  "74520012": {
+    "name": "AVIA Aire de Valleiry Sud (E62/A40)",
+    "brand": "Avia"
+  },
+  "73182003": {
+    "name": "Eni Aire de Mouxy (E712/A41)",
+    "brand": "Eni"
+  },
+  "74600016": {
+    "name": "AVIA Aire de Fontanelles (E712/A41)",
+    "brand": "Avia"
+  },
+  "1120009": {
+    "name": "AVIA Aire de Lyon-Dagneux (E611/A42)",
+    "brand": "Avia"
+  },
+  "1390011": {
+    "name": "Shell Aire de Mionnay Ouest (E15/A46)",
+    "brand": "Shell"
+  },
+  "26730005": {
+    "name": "Esso Aire de Royans-Vercors (E713/A49)",
+    "brand": "Esso"
+  },
+  "21200009": {
+    "name": "TotalEnergies Aire de Beaune-Tailly (E15/A6)",
+    "brand": "Total"
+  },
+  "43360004": {
+    "name": "AVIA Aire de La Fayette (E11/A75)",
+    "brand": "Avia"
+  },
+  "48200008": {
+    "name": "AVIA Aire de la Lozère (E11/A75)",
+    "brand": "Avia"
+  },
+  "63114003": {
+    "name": "AVIA Aire d'Authezat (E11/A75)",
+    "brand": "Avia"
+  },
+  "42440010": {
+    "name": "Eni Aire du Haut-Forez Sud (E70/A89)",
+    "brand": "Eni"
+  },
+  "42440011": {
+    "name": "Shell Aire du Haut-Forez Nord (E70/A89)",
+    "brand": "Shell"
+  },
+  "42510007": {
+    "name": "AVIA Aire de la Loire (E70/A89)",
+    "brand": "Avia"
+  },
+  "30320009": {
+    "name": "Eni Aire de Nîmes-Marguerittes Sud (E15/A9)",
+    "brand": "Eni"
   }
 }
