@@ -283,10 +283,6 @@
     "name": "RELAIS RESIDENCE",
     "brand": "Total Access"
   },
-  "1140001": {
-    "name": "Carrefour Contact",
-    "brand": "Carrefour Contact"
-  },
   "1150001": {
     "name": "Carrefour Market",
     "brand": "Carrefour Market"
@@ -325,7 +321,7 @@
   },
   "1190001": {
     "name": "BI1 Saint-Bénigne",
-    "brand": "Atac"
+    "brand": "Avia"
   },
   "1200001": {
     "name": "Carrefour Market",
@@ -370,10 +366,6 @@
   "1300001": {
     "name": "Carrefour Market",
     "brand": "Carrefour Market"
-  },
-  "1300002": {
-    "name": "SIMPLY MARKET",
-    "brand": "Simply Market"
   },
   "1300003": {
     "name": "Intermarché CHAZEY BONS",
@@ -948,8 +940,8 @@
     "brand": "Intermarché"
   },
   "3290001": {
-    "name": "ATAC DOMPIERRE SUR BESBRE",
-    "brand": "Atac"
+    "name": "AVIA DOMPIERRE SUR BESBRE",
+    "brand": "Avia"
   },
   "3290002": {
     "name": "Super U",
@@ -964,16 +956,16 @@
     "brand": "Total"
   },
   "3300003": {
-    "name": "Carrefour",
-    "brand": "Carrefour"
+    "name": "Système U",
+    "brand": "Système U"
   },
   "3310002": {
     "name": "SARL ADOL NERIS LES BAINS",
     "brand": "Intermarché"
   },
   "3320001": {
-    "name": "ATAC LURCY LEVIS",
-    "brand": "Atac"
+    "name": "AVIA LURCY LEVIS",
+    "brand": "Avia"
   },
   "3350002": {
     "name": "Carrefour Contact",
@@ -2340,16 +2332,16 @@
     "brand": "Carrefour"
   },
   "10130001": {
-    "name": "ATAC ERVY LE CHATEL",
-    "brand": "Atac"
+    "name": "AVIA ERVY LE CHATEL",
+    "brand": "Avia"
   },
   "10130004": {
     "name": "Intermarché AUXON ADISAUX",
     "brand": "Intermarché"
   },
   "10140001": {
-    "name": "Bi1 VENDEUVRE SUR BARSE",
-    "brand": "Bi1"
+    "name": "Avia VENDEUVRE SUR BARSE",
+    "brand": "Avia"
   },
   "10150001": {
     "name": "Esso DU STADE PSM",
@@ -2385,7 +2377,7 @@
   },
   "10200004": {
     "name": "SARL Maitre et Cie",
-    "brand": "Esso"
+    "brand": "Avia"
   },
   "10210001": {
     "name": "Garage chaourçois",
@@ -2560,8 +2552,8 @@
     "brand": "Dyneff"
   },
   "11100004": {
-    "name": "€SSENCE Cap de Pla",
-    "brand": "€SSENCE"
+    "name": "€DYNEFF Cap de Pla",
+    "brand": "Dyneff"
   },
   "11100008": {
     "name": "Esso CROIX SUD EST",
@@ -3333,7 +3325,7 @@
   },
   "13140002": {
     "name": "Station services des molieres",
-    "brand": "Dyneff"
+    "brand": "Avia"
   },
   "13140005": {
     "name": "Intermarché MIRAMAS",
@@ -3512,8 +3504,8 @@
     "brand": "Total"
   },
   "13320013": {
-    "name": "Station Total Relais de la Salle",
-    "brand": "Total"
+    "name": "Station Esso Relais de la Salle",
+    "brand": "Esso"
   },
   "13340001": {
     "name": "Carrefour Market",
@@ -3825,7 +3817,7 @@
   },
   "13880001": {
     "name": "STATION SERVICE DE VELAUX",
-    "brand": "Avia"
+    "brand": "Intermarché"
   },
   "13880002": {
     "name": "Intermarché VELAUX",
@@ -3845,7 +3837,7 @@
   },
   "13990002": {
     "name": "Le Lutin des Alpilles",
-    "brand": "Elan"
+    "brand": "Avia"
   },
   "14000003": {
     "name": "SARL GARAGE CRAPART ET FILS",
@@ -4140,8 +4132,8 @@
     "brand": "Carrefour Contact"
   },
   "14550001": {
-    "name": "E. LECLERC BLAINVILLE SUR ORNE",
-    "brand": "Leclerc"
+    "name": "E. SYSTÈME U BLAINVILLE SUR ORNE",
+    "brand": "Système U"
   },
   "14600003": {
     "name": "HONFLEUR-DISTRIBUTION",
@@ -4163,10 +4155,6 @@
     "name": "SAS BAM DISTRIBUTION",
     "brand": "Système U"
   },
-  "14680001": {
-    "name": "Carrefour Contact",
-    "brand": "Carrefour Contact"
-  },
   "14700004": {
     "name": "CENTRE E LECLERC",
     "brand": "Leclerc"
@@ -4186,10 +4174,6 @@
   "14730001": {
     "name": "ESSO A13 AIRE DE GIBERVILLE SUD",
     "brand": "Esso"
-  },
-  "14740001": {
-    "name": "Carrefour Contact",
-    "brand": "Carrefour Contact"
   },
   "14760002": {
     "name": "RELAIS BRETTEVILLE SUR ODON",
@@ -5028,16 +5012,16 @@
     "brand": "Carrefour Market"
   },
   "18130001": {
-    "name": "ATAC DUN SUR AURON",
-    "brand": "Atac"
+    "name": "AVIA DUN SUR AURON",
+    "brand": "Avia"
   },
   "18130002": {
     "name": "SUPER U DUN SUR AURON",
     "brand": "Système U"
   },
   "18150001": {
-    "name": "ATAC LA GUERCHE SUR L AUBOIS",
-    "brand": "Atac"
+    "name": "BI1 LA GUERCHE SUR L AUBOIS",
+    "brand": "Bi1"
   },
   "18160001": {
     "name": "Market SAS LIGNIERIS",
@@ -5136,8 +5120,8 @@
     "brand": "Carrefour Contact"
   },
   "18600001": {
-    "name": "ATAC SANCOINS",
-    "brand": "Atac"
+    "name": "AVIA SANCOINS",
+    "brand": "Avia"
   },
   "18600003": {
     "name": "Intermarché SANCOINS",
@@ -5152,8 +5136,8 @@
     "brand": "Intermarché"
   },
   "18800001": {
-    "name": "ATAC BAUGY",
-    "brand": "Atac"
+    "name": "AVIA BAUGY",
+    "brand": "Avia"
   },
   "19000002": {
     "name": "TULLE-DISTRIBUTION",
@@ -5265,7 +5249,7 @@
   },
   "19240002": {
     "name": "SARL BROCHETON DISTRI",
-    "brand": "Shopi"
+    "brand": "Carrefour Contact"
   },
   "19240003": {
     "name": "Intermarché ALLASSAC",
@@ -5344,8 +5328,8 @@
     "brand": "VITO"
   },
   "20000006": {
-    "name": "RELAIS CECCALDI - Esso",
-    "brand": "Esso"
+    "name": "RELAIS CECCALDI - TotalEnergies",
+    "brand": "TotalEnergies"
   },
   "20000007": {
     "name": "SARL FABIANI STATION Total",
@@ -5377,7 +5361,7 @@
   },
   "20090015": {
     "name": "Relais Kennedy",
-    "brand": "Esso"
+    "brand": "VITO"
   },
   "20100001": {
     "name": "M. DIGIACOMI Ange-Noël",
@@ -5385,15 +5369,15 @@
   },
   "20100003": {
     "name": "SARL GAST",
-    "brand": "BP"
+    "brand": "VITO"
   },
   "20100005": {
     "name": "SARL CANGIONI",
     "brand": "VITO"
   },
   "20110003": {
-    "name": "Esso SERVICE DIGIACOMI & FILS",
-    "brand": "Esso"
+    "name": "VITO SERVICE DIGIACOMI & FILS",
+    "brand": "VITO"
   },
   "20111001": {
     "name": "VITO TIUCCIA SARL SOCIDI",
@@ -5656,8 +5640,8 @@
     "brand": "Total"
   },
   "20240004": {
-    "name": "Esso SERVICES BENASSI",
-    "brand": "Esso"
+    "name": "VITO SERVICES BENASSI",
+    "brand": "VITO"
   },
   "20240005": {
     "name": "Vito",
@@ -5812,8 +5796,8 @@
     "brand": "Total"
   },
   "21110001": {
-    "name": "ATAC AISEREY",
-    "brand": "Atac"
+    "name": "AVIA AISEREY",
+    "brand": "Avia"
   },
   "21110002": {
     "name": "RENAULT GENLIS SA",
@@ -5876,8 +5860,8 @@
     "brand": "Intermarché"
   },
   "21150001": {
-    "name": "ATAC VENAREY LES LAUMES",
-    "brand": "Atac"
+    "name": "AVIA VENAREY LES LAUMES",
+    "brand": "Avia"
   },
   "21150002": {
     "name": "Venardis sas",
@@ -5929,7 +5913,7 @@
   },
   "21210001": {
     "name": "Bi1 SAULIEU",
-    "brand": "Atac"
+    "brand": "Avia"
   },
   "21220003": {
     "name": "SUPER U GEVREY/BROCHON",
@@ -5945,7 +5929,7 @@
   },
   "21250001": {
     "name": "Bi1 SEURRE",
-    "brand": "Atac"
+    "brand": "Avia"
   },
   "21250005": {
     "name": "SARL BRYSSE",
@@ -5960,12 +5944,12 @@
     "brand": "Avia"
   },
   "21260001": {
-    "name": "ATAC SELONGEY",
-    "brand": "Atac"
+    "name": "AVIA SELONGEY",
+    "brand": "Avia"
   },
   "21270001": {
-    "name": "ATAC PONTAILLER SUR SAONE",
-    "brand": "Atac"
+    "name": "AVIA PONTAILLER SUR SAONE",
+    "brand": "Avia"
   },
   "21300004": {
     "name": "Super U",
@@ -5996,16 +5980,16 @@
     "brand": "Avia"
   },
   "21340001": {
-    "name": "ATAC NOLAY",
-    "brand": "Atac"
+    "name": "AVIA NOLAY",
+    "brand": "Avia"
   },
   "21340002": {
     "name": "GARAGE FOURRIER",
     "brand": "Total"
   },
   "21350001": {
-    "name": "ATAC VITTEAUX",
-    "brand": "Atac"
+    "name": "AVIA VITTEAUX",
+    "brand": "Avia"
   },
   "21360001": {
     "name": "AVIA BLIGNY SUR OUCHE",
@@ -6089,7 +6073,7 @@
   },
   "21640001": {
     "name": "MR KUBIEZ",
-    "brand": "Total"
+    "brand": "Avia"
   },
   "21700001": {
     "name": "Carrefour Market",
@@ -6101,7 +6085,7 @@
   },
   "21700005": {
     "name": "Relais du poirier au Loup",
-    "brand": "Avia"
+    "brand": "TotalEnergies"
   },
   "21800002": {
     "name": "Carrefour QUETIGNY",
@@ -6121,7 +6105,7 @@
   },
   "21910001": {
     "name": "SCHIEVER CARBURANTS",
-    "brand": "Atac"
+    "brand": "Avia"
   },
   "22000002": {
     "name": "U Express Cesson Saint-Brieuc",
@@ -6217,7 +6201,7 @@
   },
   "22200005": {
     "name": "Guingamp services sarl",
-    "brand": "Avia"
+    "brand": "TotalEnergies"
   },
   "22200006": {
     "name": "RELAIS PLOUMAGOAR",
@@ -6318,10 +6302,6 @@
   "22370001": {
     "name": "E.LECLERC PLENEUF VAL ANDRE",
     "brand": "Leclerc"
-  },
-  "22390001": {
-    "name": "SHOPI",
-    "brand": "Shopi"
   },
   "22400001": {
     "name": "Carrefour Market",
@@ -6779,10 +6759,6 @@
     "name": "STATION ELAN",
     "brand": "Elan"
   },
-  "24470001": {
-    "name": "SIMPLY MARKET",
-    "brand": "Simply Market"
-  },
   "24480001": {
     "name": "POILLEUX",
     "brand": "Total"
@@ -6905,7 +6881,7 @@
   },
   "25130001": {
     "name": "Bi1 VILLERS LE LAC",
-    "brand": "Atac"
+    "brand": "Avia"
   },
   "25150002": {
     "name": "Intermarché PONT DE ROIDE",
@@ -6940,20 +6916,20 @@
     "brand": "Intermarché"
   },
   "25240001": {
-    "name": "ATAC MOUTHE",
-    "brand": "Atac"
+    "name": "AVIA MOUTHE",
+    "brand": "Avia"
   },
   "25250002": {
     "name": "Intermarché L'ISLE SUR LE DOUBS",
     "brand": "Intermarché"
   },
   "25270001": {
-    "name": "ATAC LEVIER",
-    "brand": "Atac"
+    "name": "AVIA LEVIER",
+    "brand": "Avia"
   },
   "25290001": {
-    "name": "ATAC ORNANS",
-    "brand": "Atac"
+    "name": "AVIA ORNANS",
+    "brand": "Avia"
   },
   "25290005": {
     "name": "AVIA",
@@ -7020,8 +6996,8 @@
     "brand": "Netto"
   },
   "25420001": {
-    "name": "ATAC VOUJEAUCOURT",
-    "brand": "Atac"
+    "name": "AVIA VOUJEAUCOURT",
+    "brand": "Avia"
   },
   "25420002": {
     "name": "EURL NEDEY",
@@ -7071,10 +7047,6 @@
     "name": "STATION U",
     "brand": "Système U"
   },
-  "25610001": {
-    "name": "SUPERMARCHE BI1",
-    "brand": "Bi1"
-  },
   "25620001": {
     "name": "RELAIS MAMIROLLE",
     "brand": "Total Access"
@@ -7092,8 +7064,8 @@
     "brand": "Indépendant sans enseigne"
   },
   "25650003": {
-    "name": "GARAGE POURCHET",
-    "brand": "POURCHET"
+    "name": "GARAGE AVIA",
+    "brand": "Avia"
   },
   "25660002": {
     "name": "Ancopi",
@@ -7956,8 +7928,8 @@
     "brand": "Leclerc"
   },
   "29120004": {
-    "name": "Intermarché PONT-L'ABBE",
-    "brand": "Intermarché"
+    "name": "Netto PONT-L'ABBE",
+    "brand": "Netto"
   },
   "29120005": {
     "name": "Carrefour Market",
@@ -8881,7 +8853,7 @@
   },
   "31140006": {
     "name": "Auchan",
-    "brand": "Simply Market"
+    "brand": "Auchan"
   },
   "31140008": {
     "name": "SUPER U FONBEAUZARD",
@@ -8916,8 +8888,8 @@
     "brand": "Carrefour Market"
   },
   "31170004": {
-    "name": "STATION KAI TOURNEFEUILLE",
-    "brand": "KAI"
+    "name": "STATION TOTALENERGIES TOURNEFEUILLE",
+    "brand": "TotalEnergies"
   },
   "31180001": {
     "name": "SAS ROUFFIAC-DISTRIBUTION",
@@ -8944,8 +8916,8 @@
     "brand": "Esso Express"
   },
   "31200009": {
-    "name": "STATION KAI Etats-Unis",
-    "brand": "KAI"
+    "name": "STATION TOTALENERGIES Etats-Unis",
+    "brand": "TotalEnergies"
   },
   "31200019": {
     "name": "DYNEFF LACOURT",
@@ -8996,8 +8968,8 @@
     "brand": "Total"
   },
   "31240002": {
-    "name": "STATION KAI L'UNION",
-    "brand": "KAI"
+    "name": "STATION TOTALENERGIES L'UNION",
+    "brand": "TotalEnergies"
   },
   "31240003": {
     "name": "Intermarché SAINT JEAN",
@@ -9212,8 +9184,8 @@
     "brand": "Esso Express"
   },
   "31500008": {
-    "name": "STATION KAI CHAUBET",
-    "brand": "KAI"
+    "name": "STATION TOTALENERGIES CHAUBET",
+    "brand": "TotalEnergies"
   },
   "31500012": {
     "name": "Station AVIA 2LLS",
@@ -9296,8 +9268,8 @@
     "brand": "Intermarché"
   },
   "31670001": {
-    "name": "STATION KAI LABEGE",
-    "brand": "KAI"
+    "name": "STATION TOTALENERGIES LABEGE",
+    "brand": "TotalEnergies"
   },
   "31673001": {
     "name": "Carrefour LABEGE",
@@ -9372,8 +9344,8 @@
     "brand": "Intermarché"
   },
   "31810003": {
-    "name": "STATION KAÏ VERNET",
-    "brand": "KAI"
+    "name": "STATION TOTALENERGIES VERNET",
+    "brand": "TotalEnergies"
   },
   "31820001": {
     "name": "Carrefour Market",
@@ -10305,7 +10277,7 @@
   },
   "34070004": {
     "name": "Auchan",
-    "brand": "Simply Market"
+    "brand": "Auchan"
   },
   "34070012": {
     "name": "STATION DYNEFF",
@@ -10389,7 +10361,7 @@
   },
   "34140006": {
     "name": "sarl carbur",
-    "brand": "Dyneff"
+    "brand": "Avia"
   },
   "34150001": {
     "name": "SPAR",
@@ -11503,10 +11475,6 @@
     "name": "SA FONDIS",
     "brand": "Leclerc"
   },
-  "37240001": {
-    "name": "SIMPLY MARKET",
-    "brand": "Simply Market"
-  },
   "37250002": {
     "name": "Intermarché VEIGNE",
     "brand": "Intermarché"
@@ -11581,7 +11549,7 @@
   },
   "37380001": {
     "name": "SARL VBM",
-    "brand": "Simply Market"
+    "brand": "Auchan"
   },
   "37380003": {
     "name": "ESSO A10 AIRE DE TOURS LA LONGUE VUE",
@@ -12144,8 +12112,8 @@
     "brand": "Intermarché"
   },
   "38570003": {
-    "name": "NETTO LE CHEYLAS",
-    "brand": "Netto"
+    "name": "INTERMARCHÉ CONTACT LE CHEYLAS",
+    "brand": "Intermarché Contact"
   },
   "38590001": {
     "name": "Super U",
@@ -12181,7 +12149,7 @@
   },
   "38700001": {
     "name": "LES SABLONS",
-    "brand": "Total"
+    "brand": "Esso"
   },
   "38700003": {
     "name": "Total Access LA TRONCHE",
@@ -12328,8 +12296,8 @@
     "brand": "Indépendant sans enseigne"
   },
   "39170002": {
-    "name": "ATAC LAVANS",
-    "brand": "Atac"
+    "name": "AVIA LAVANS",
+    "brand": "Avia"
   },
   "39200002": {
     "name": "SARL PARISI CLAUDE",
@@ -12344,12 +12312,12 @@
     "brand": "Intermarché"
   },
   "39210001": {
-    "name": "ATAC VOITEUR",
-    "brand": "Atac"
+    "name": "AVIA VOITEUR",
+    "brand": "Avia"
   },
   "39220002": {
-    "name": "ATAC BOIS D AMONT",
-    "brand": "Atac"
+    "name": "AVIA BOIS D AMONT",
+    "brand": "Avia"
   },
   "39220004": {
     "name": "STATION AVIA",
@@ -12392,8 +12360,8 @@
     "brand": "Système U"
   },
   "39300004": {
-    "name": "Intermarché CHAMPAGNOLE",
-    "brand": "Intermarché"
+    "name": "Netto CHAMPAGNOLE",
+    "brand": "Netto"
   },
   "39300006": {
     "name": "station Leclerc Champagnole",
@@ -12410,10 +12378,6 @@
   "39400002": {
     "name": "Intermarché MOREZ",
     "brand": "Intermarché"
-  },
-  "39400003": {
-    "name": "Supermarche Bi1",
-    "brand": "Bi1"
   },
   "39402001": {
     "name": "MOREZ AUTOMOBILES SAS",
@@ -12440,8 +12404,8 @@
     "brand": "Bricomarché"
   },
   "39600001": {
-    "name": "ATAC ARBOIS",
-    "brand": "Atac"
+    "name": "AVIA ARBOIS",
+    "brand": "Avia"
   },
   "39600002": {
     "name": "Super U",
@@ -12956,8 +12920,8 @@
     "brand": "Elan"
   },
   "41360005": {
-    "name": "Coccinelle supermarché",
-    "brand": "Coccinelle"
+    "name": "Système U supermarché",
+    "brand": "Système U"
   },
   "41370001": {
     "name": "EURL GARAGE HURAULT",
@@ -13210,10 +13174,6 @@
   "42300012": {
     "name": "GARAGE DOURDEIN",
     "brand": "Total"
-  },
-  "42310001": {
-    "name": "ATAC",
-    "brand": "Atac"
   },
   "42330002": {
     "name": "Intermarché SAS Libra",
@@ -14175,10 +14135,6 @@
     "name": "RELAIS ST JEAN",
     "brand": "Total Access"
   },
-  "45150001": {
-    "name": "SIMPLY MARKET",
-    "brand": "Simply Market"
-  },
   "45160001": {
     "name": "AUCHAN OLIVET",
     "brand": "Auchan"
@@ -14259,13 +14215,9 @@
     "name": "Intermarché LORRIS",
     "brand": "Intermarché"
   },
-  "45270001": {
-    "name": "SIMPLY MARKET",
-    "brand": "Simply Market"
-  },
   "45290001": {
     "name": "bi1",
-    "brand": "Atac"
+    "brand": "Avia"
   },
   "45290003": {
     "name": "ESSO A77 AIRE DU JARDIN DES ARBRES",
@@ -14281,7 +14233,7 @@
   },
   "45320001": {
     "name": "Bi1 COURTENAY",
-    "brand": "Atac"
+    "brand": "Avia"
   },
   "45320004": {
     "name": "Intermarché COURTENAY",
@@ -14340,8 +14292,8 @@
     "brand": "Intermarché"
   },
   "45420001": {
-    "name": "ATAC BONNY SUR LOIRE",
-    "brand": "Atac"
+    "name": "AVIA BONNY SUR LOIRE",
+    "brand": "Avia"
   },
   "45420002": {
     "name": "Super U BONNY SUR LOIRE",
@@ -14524,8 +14476,8 @@
     "brand": "Supermarchés Spar"
   },
   "46140003": {
-    "name": "Carrefour Contact Parnac",
-    "brand": "Carrefour Contact"
+    "name": "Système U Parnac",
+    "brand": "Système U"
   },
   "46150001": {
     "name": "SPAR SUPERMARCHE",
@@ -14564,8 +14516,8 @@
     "brand": "Carrefour Contact"
   },
   "46240001": {
-    "name": "Carrefour Contact",
-    "brand": "Carrefour Contact"
+    "name": "Système U",
+    "brand": "Système U"
   },
   "46240003": {
     "name": "Station Avia",
@@ -14644,8 +14596,8 @@
     "brand": "Indépendant sans enseigne"
   },
   "47130001": {
-    "name": "Intermarché PORT STE MARIE",
-    "brand": "Intermarché"
+    "name": "Netto PORT STE MARIE",
+    "brand": "Netto"
   },
   "47140001": {
     "name": "Intermarché SAINTE LIVRADE",
@@ -14821,7 +14773,7 @@
   },
   "47500007": {
     "name": "BRICOFIOUL",
-    "brand": "Bricomarché"
+    "brand": "Netto"
   },
   "47510001": {
     "name": "GGE CAOULET SARL",
@@ -14845,7 +14797,7 @@
   },
   "47550009": {
     "name": "SARL ALGUI",
-    "brand": "Esso"
+    "brand": "Avia"
   },
   "47600003": {
     "name": "Intermarché NERAC",
@@ -14890,14 +14842,6 @@
   "48100002": {
     "name": "Pagès",
     "brand": "Avia"
-  },
-  "48100003": {
-    "name": "Carrefour MARKET",
-    "brand": "Carrefour MARKET"
-  },
-  "48100004": {
-    "name": "Auchan",
-    "brand": "Auchan"
   },
   "48100006": {
     "name": "STATION DAUDE",
@@ -15104,8 +15048,8 @@
     "brand": "Carrefour Contact"
   },
   "49240002": {
-    "name": "AUCHAN AVRILLE",
-    "brand": "Auchan"
+    "name": "SYSTÈME U AVRILLE",
+    "brand": "Système U"
   },
   "49250001": {
     "name": "Intermarché BEAUFORT EN VALLEE",
@@ -15124,8 +15068,8 @@
     "brand": "Total"
   },
   "49280003": {
-    "name": "SUPERMARCHE G20",
-    "brand": "G 20"
+    "name": "SUPERMARCHE SYSTÈME U",
+    "brand": "Système U"
   },
   "49290001": {
     "name": "Super U CHALONNES SUR LOIRE",
@@ -15661,7 +15605,7 @@
   },
   "50690001": {
     "name": "STATION SERVICE DU PONT",
-    "brand": "Esso"
+    "brand": "TotalEnergies"
   },
   "50690003": {
     "name": "SARL STATION LE BOURG NEUF",
@@ -16737,7 +16681,7 @@
   },
   "55700006": {
     "name": "SARL STAILLOUX",
-    "brand": "STENAY"
+    "brand": "Intermarché"
   },
   "56000003": {
     "name": "Carrefour Market",
@@ -17637,11 +17581,11 @@
   },
   "58110001": {
     "name": "GARAGE DU BAZOIS",
-    "brand": "Avia"
+    "brand": "TotalEnergies"
   },
   "58120001": {
-    "name": "ATAC CHATEAU CHINON",
-    "brand": "Atac"
+    "name": "AVIA CHATEAU CHINON",
+    "brand": "Avia"
   },
   "58130001": {
     "name": "Intermarché GUERIGNY",
@@ -17656,8 +17600,8 @@
     "brand": "Total"
   },
   "58160001": {
-    "name": "ATAC IMPHY",
-    "brand": "Atac"
+    "name": "AVIA IMPHY",
+    "brand": "Avia"
   },
   "58160002": {
     "name": "IMPHY AUTOMOBILES",
@@ -17700,8 +17644,8 @@
     "brand": "Indépendant sans enseigne"
   },
   "58240001": {
-    "name": "ATAC ST PIERRE LE MOUTIER",
-    "brand": "Atac"
+    "name": "AVIA ST PIERRE LE MOUTIER",
+    "brand": "Avia"
   },
   "58240003": {
     "name": "RELAIS SAINT IMBERT",
@@ -17712,8 +17656,8 @@
     "brand": "Intermarché Contact"
   },
   "58290001": {
-    "name": "ATAC MOULINS ENGILBERT",
-    "brand": "Atac"
+    "name": "AVIA MOULINS ENGILBERT",
+    "brand": "Avia"
   },
   "58300003": {
     "name": "ENI ST LEGER DES VIGNES RN",
@@ -17736,8 +17680,8 @@
     "brand": "Avia"
   },
   "58340001": {
-    "name": "ATAC CERCY LA TOUR",
-    "brand": "Atac"
+    "name": "AVIA CERCY LA TOUR",
+    "brand": "Avia"
   },
   "58390003": {
     "name": "SA MAELANN - Intermarché Dornes",
@@ -17796,8 +17740,8 @@
     "brand": "Carrefour Market"
   },
   "58800001": {
-    "name": "ATAC CORBIGNY",
-    "brand": "Atac"
+    "name": "BI1 CORBIGNY",
+    "brand": "Bi1"
   },
   "58800002": {
     "name": "WELDOM CORBIGNY",
@@ -19241,7 +19185,7 @@
   },
   "62137001": {
     "name": "Station des Princes",
-    "brand": "Esso"
+    "brand": "TotalEnergies Access"
   },
   "62138002": {
     "name": "Carrefour AUCHY LES MINES",
@@ -19376,8 +19320,8 @@
     "brand": "Leclerc"
   },
   "62220003": {
-    "name": "ROADY CARVIN",
-    "brand": "Roady"
+    "name": "INTERMARCHÉ CARVIN",
+    "brand": "Intermarché"
   },
   "62221001": {
     "name": "Intermarché NOYELLES SOUS LENS",
@@ -19393,7 +19337,7 @@
   },
   "62230001": {
     "name": "SARL NATHYS",
-    "brand": "Carrefour Market"
+    "brand": "Proxi"
   },
   "62230003": {
     "name": "LIANOUDIS SA",
@@ -19500,8 +19444,8 @@
     "brand": "Carrefour Market"
   },
   "62330002": {
-    "name": "Intermarché Contact GUARBECQUE",
-    "brand": "Intermarché"
+    "name": "Netto Contact GUARBECQUE",
+    "brand": "Netto"
   },
   "62340001": {
     "name": "Carrefour Market",
@@ -19717,7 +19661,7 @@
   },
   "62770001": {
     "name": "Carrefour Contact",
-    "brand": "Dia"
+    "brand": "Carrefour Contact"
   },
   "62780003": {
     "name": "Intermarché CUCQ",
@@ -20931,7 +20875,7 @@
   },
   "66700007": {
     "name": "SAS PETROSUD FORMENTY",
-    "brand": "Esso"
+    "brand": "TotalEnergies"
   },
   "66750004": {
     "name": "RELAIS LAS ROUTES",
@@ -21279,7 +21223,7 @@
   },
   "67540001": {
     "name": "Auchan",
-    "brand": "Simply Market"
+    "brand": "Auchan"
   },
   "67540003": {
     "name": "Station Service Shell",
@@ -21899,8 +21843,8 @@
     "brand": "Eni"
   },
   "69190010": {
-    "name": "Bp Saint Fons 24/24",
-    "brand": "Bp"
+    "name": "Esso Saint Fons 24/24",
+    "brand": "Esso"
   },
   "69200001": {
     "name": "Carrefour VENISSIEUX",
@@ -22068,7 +22012,7 @@
   },
   "69360010": {
     "name": "SARL SEREDIS",
-    "brand": "Carrefour Contact"
+    "brand": "Système U"
   },
   "69360012": {
     "name": "RELAIS DE TERNAY",
@@ -22396,7 +22340,7 @@
   },
   "70000005": {
     "name": "Station Ets DORMOY",
-    "brand": "Avia"
+    "brand": "TotalEnergies"
   },
   "70000007": {
     "name": "Intermarché NAVENNE",
@@ -22595,8 +22539,8 @@
     "brand": "Total"
   },
   "71110001": {
-    "name": "ATAC MARCIGNY",
-    "brand": "Atac"
+    "name": "AVIA MARCIGNY",
+    "brand": "Avia"
   },
   "71110003": {
     "name": "Garage Christophe JANIN",
@@ -22628,7 +22572,7 @@
   },
   "71140001": {
     "name": "bi1 BOURBON LANCY",
-    "brand": "Atac"
+    "brand": "Avia"
   },
   "71140002": {
     "name": "ENI BOURBON LANCY",
@@ -22687,8 +22631,8 @@
     "brand": "Avia"
   },
   "71250001": {
-    "name": "ATAC CLUNY",
-    "brand": "Atac"
+    "name": "AVIA CLUNY",
+    "brand": "Avia"
   },
   "71250004": {
     "name": "SARL GARAGE DE LA DIGUE",
@@ -22716,7 +22660,7 @@
   },
   "71270004": {
     "name": "SUPERMARCHE BI1",
-    "brand": "Atac"
+    "brand": "Avia"
   },
   "71270005": {
     "name": "Intermarché PIERRE DE BRESSE",
@@ -22739,16 +22683,16 @@
     "brand": "Système U"
   },
   "71350001": {
-    "name": "ATAC VERDUN SUR LE DOUBS",
-    "brand": "Atac"
+    "name": "AVIA VERDUN SUR LE DOUBS",
+    "brand": "Avia"
   },
   "71350002": {
     "name": "SAS SYDO",
     "brand": "Intermarché Contact"
   },
   "71370001": {
-    "name": "ATAC ST GERMAIN DU PLAIN",
-    "brand": "Atac"
+    "name": "AVIA ST GERMAIN DU PLAIN",
+    "brand": "Avia"
   },
   "71370003": {
     "name": "Intermarché OUROUX SUR SAONE",
@@ -22759,8 +22703,8 @@
     "brand": "Netto"
   },
   "71390001": {
-    "name": "ATAC BUXY",
-    "brand": "Atac"
+    "name": "AVIA BUXY",
+    "brand": "Avia"
   },
   "71400005": {
     "name": "Intermarché AUTUN",
@@ -22811,8 +22755,8 @@
     "brand": "Avia"
   },
   "71500001": {
-    "name": "ATAC LOUHANS",
-    "brand": "Atac"
+    "name": "AVIA LOUHANS",
+    "brand": "Avia"
   },
   "71500002": {
     "name": "Market",
@@ -22827,8 +22771,8 @@
     "brand": "Leclerc"
   },
   "71510001": {
-    "name": "ATAC ST LEGER SUR DHEUNE",
-    "brand": "Atac"
+    "name": "AVIA ST LEGER SUR DHEUNE",
+    "brand": "Avia"
   },
   "71540001": {
     "name": "8 à Huit IGORNAY",
@@ -22836,7 +22780,7 @@
   },
   "71570003": {
     "name": "Bi1",
-    "brand": "Atac"
+    "brand": "Avia"
   },
   "71570004": {
     "name": "Intermarché ROMANECHE THORINS",
@@ -22891,8 +22835,8 @@
     "brand": "Total Access"
   },
   "71800001": {
-    "name": "ATAC LA CLAYETTE",
-    "brand": "Atac"
+    "name": "AVIA LA CLAYETTE",
+    "brand": "Avia"
   },
   "71800002": {
     "name": "Intermarché VARENNES SOUS DUN",
@@ -22949,10 +22893,6 @@
   "72000021": {
     "name": "RELAIS FORESTERIE",
     "brand": "Total Access"
-  },
-  "72000022": {
-    "name": "Esso",
-    "brand": "Esso"
   },
   "72016001": {
     "name": "STATION E.LECLERC LE MANS",
@@ -23355,8 +23295,8 @@
     "brand": "Carrefour Market"
   },
   "73300002": {
-    "name": "ENI ST JEAN DE MAURIENNE ZC LES PLANS",
-    "brand": "Eni"
+    "name": "AVIA ST JEAN DE MAURIENNE ZC LES PLANS",
+    "brand": "Avia"
   },
   "73300005": {
     "name": "ELAN - Le Corbier",
@@ -24591,8 +24531,8 @@
     "brand": "Intermarché"
   },
   "77140010": {
-    "name": "AUTOGRILL STATION SHELL",
-    "brand": "AUTOGRILL"
+    "name": "SHELL STATION SHELL",
+    "brand": "Shell"
   },
   "77140011": {
     "name": "RELAIS NEMOURS DE GAULLE",
@@ -24672,8 +24612,8 @@
     "brand": "Total Access"
   },
   "77176001": {
-    "name": "SIGESS Esso",
-    "brand": "Esso"
+    "name": "SIGESS TotalEnergies",
+    "brand": "TotalEnergies"
   },
   "77181002": {
     "name": "RELAIS DU PIN",
@@ -24804,7 +24744,7 @@
   },
   "77330002": {
     "name": "Relais d'Ozoir Silcar",
-    "brand": "Total"
+    "brand": "Avia"
   },
   "77330003": {
     "name": "LECLERC OZOIR LA FERRIERE",
@@ -24927,10 +24867,6 @@
     "name": "SARL MYDISTRI",
     "brand": "Carrefour Market"
   },
-  "77480001": {
-    "name": "Bi1",
-    "brand": "Bi1"
-  },
   "77480002": {
     "name": "Carrefour Market",
     "brand": "Carrefour Market"
@@ -25044,8 +24980,8 @@
     "brand": "Total Access"
   },
   "77760001": {
-    "name": "ATAC LA CHAPELLE LA REINE",
-    "brand": "Atac"
+    "name": "AVIA LA CHAPELLE LA REINE",
+    "brand": "Avia"
   },
   "77760002": {
     "name": "SARL GARAGE MODERNE",
@@ -25058,10 +24994,6 @@
   "77780003": {
     "name": "RELAIS DU LOING",
     "brand": "Total Access"
-  },
-  "77810001": {
-    "name": "SIMPLY MARKET",
-    "brand": "Simply Market"
   },
   "77820003": {
     "name": "E.LECLERC",
@@ -25088,8 +25020,8 @@
     "brand": "Esso Express"
   },
   "78000008": {
-    "name": "Esso DES ETATS GENERAUX",
-    "brand": "Esso"
+    "name": "TotalEnergies DES ETATS GENERAUX",
+    "brand": "TotalEnergies"
   },
   "78000016": {
     "name": "BP VERSAILLES CLEMENT ADER",
@@ -25519,10 +25451,6 @@
     "name": "Carrefour St Quentin en Yvelines",
     "brand": "Carrefour"
   },
-  "78910001": {
-    "name": "SIMPLY MARKET",
-    "brand": "Simply Market"
-  },
   "78955001": {
     "name": "SODICA CARRIERES",
     "brand": "Leclerc"
@@ -25940,8 +25868,8 @@
     "brand": "Carrefour Market"
   },
   "80260003": {
-    "name": "SAS XEAUPRED STATION Intermarché",
-    "brand": "Intermarché"
+    "name": "SAS XEAUPRED STATION Netto",
+    "brand": "Netto"
   },
   "80270001": {
     "name": "Carrefour Market",
@@ -25978,10 +25906,6 @@
   "80350001": {
     "name": "AUCHAN",
     "brand": "Auchan"
-  },
-  "80370002": {
-    "name": "Carrefour Contact",
-    "brand": "Carrefour Contact"
   },
   "80380001": {
     "name": "AJC DISTRIBUTION",
@@ -26332,8 +26256,8 @@
     "brand": "Leclerc"
   },
   "82000007": {
-    "name": "STATION KAI MONTAUBAN",
-    "brand": "KAI"
+    "name": "STATION ELAN MONTAUBAN",
+    "brand": "Elan"
   },
   "82000010": {
     "name": "E.LECLERC AUSSONNE",
@@ -26400,8 +26324,8 @@
     "brand": "Carrefour Market"
   },
   "82170002": {
-    "name": "STATION KAI POMPIGNAN",
-    "brand": "KAI"
+    "name": "STATION TOTALENERGIES POMPIGNAN",
+    "brand": "TotalEnergies"
   },
   "82200001": {
     "name": "SARL RELAIS DU CHASSELAS",
@@ -26488,8 +26412,8 @@
     "brand": "Système U"
   },
   "82600002": {
-    "name": "STATION KAÏ AUCAMVILLE",
-    "brand": "KAI"
+    "name": "STATION TOTALENERGIES AUCAMVILLE",
+    "brand": "TotalEnergies"
   },
   "82600003": {
     "name": "Intermarché VERDUN SUR GARONNE",
@@ -26709,7 +26633,7 @@
   },
   "83260003": {
     "name": "SARL DUFANKEV",
-    "brand": "Esso"
+    "brand": "Système U"
   },
   "83260005": {
     "name": "ESSO A570 AIRE DE ST AUGUSTIN LA CRAU",
@@ -26801,7 +26725,7 @@
   },
   "83400003": {
     "name": "M. ZERAFA PHILIPPE",
-    "brand": "BP"
+    "brand": "Eni"
   },
   "83400004": {
     "name": "Esso ST CHRISTOPHE",
@@ -27265,7 +27189,7 @@
   },
   "84340002": {
     "name": "GARAGE MEFFRE-BRAX CORINNE",
-    "brand": "Elan"
+    "brand": "Avia"
   },
   "84350002": {
     "name": "U EXPRESS",
@@ -27501,7 +27425,7 @@
   },
   "85170005": {
     "name": "AUTO BELLEVIGNY",
-    "brand": "Esso"
+    "brand": "TotalEnergies"
   },
   "85170006": {
     "name": "LECLERC PSV",
@@ -27855,10 +27779,6 @@
     "name": "SARL GGE COUTON",
     "brand": "Total"
   },
-  "86140002": {
-    "name": "SIMPLY MARKET",
-    "brand": "Simply Market"
-  },
   "86150002": {
     "name": "Intermarché L'ISLE JOURDAIN",
     "brand": "Intermarché"
@@ -27901,7 +27821,7 @@
   },
   "86300002": {
     "name": "MENU AUTOMOBILES",
-    "brand": "Esso"
+    "brand": "Avia"
   },
   "86310002": {
     "name": "SAVIDIS",
@@ -28161,7 +28081,7 @@
   },
   "87300002": {
     "name": "SARL NOGARET",
-    "brand": "Total"
+    "brand": "Esso"
   },
   "87300003": {
     "name": "Intermarché BELLAC",
@@ -28213,7 +28133,7 @@
   },
   "87500005": {
     "name": "Intermarché ST.YRIEIX LA PERCHE",
-    "brand": "Ecomarché"
+    "brand": "Netto"
   },
   "87510001": {
     "name": "U Express NIEUL",
@@ -28500,12 +28420,12 @@
     "brand": "Carrefour Market"
   },
   "89000002": {
-    "name": "ATAC AUXERRE",
-    "brand": "Atac"
+    "name": "AVIA AUXERRE",
+    "brand": "Avia"
   },
   "89000003": {
-    "name": "ATAC ST GEORGES SUR BAULCHE",
-    "brand": "Atac"
+    "name": "AVIA ST GEORGES SUR BAULCHE",
+    "brand": "Avia"
   },
   "89000004": {
     "name": "AUXERRE AUTOMOBILE",
@@ -28560,8 +28480,8 @@
     "brand": "Total Access"
   },
   "89110001": {
-    "name": "ATAC AILLANT/THOLON",
-    "brand": "Atac"
+    "name": "AVIA AILLANT/THOLON",
+    "brand": "Avia"
   },
   "89116003": {
     "name": "RELAIS DE LA COULINE",
@@ -28576,8 +28496,8 @@
     "brand": "Intermarché"
   },
   "89130001": {
-    "name": "ATAC TOUCY",
-    "brand": "Atac"
+    "name": "AVIA TOUCY",
+    "brand": "Avia"
   },
   "89130002": {
     "name": "Intermarché TOUCY",
@@ -28592,12 +28512,12 @@
     "brand": "Avia"
   },
   "89140001": {
-    "name": "ATAC PONT SUR YONNE",
-    "brand": "Atac"
+    "name": "AVIA PONT SUR YONNE",
+    "brand": "Avia"
   },
   "89140004": {
     "name": "DUCREUX PONT AUTO",
-    "brand": "Esso"
+    "brand": "TotalEnergies"
   },
   "89144002": {
     "name": "Carrefour Contact LIGNY",
@@ -28616,12 +28536,12 @@
     "brand": "BI1"
   },
   "89170001": {
-    "name": "ATAC ST FARGEAU",
-    "brand": "Atac"
+    "name": "AVIA ST FARGEAU",
+    "brand": "Avia"
   },
   "89200002": {
     "name": "Bi1 AVALLON LES CHAUMES",
-    "brand": "Atac"
+    "brand": "Avia"
   },
   "89200003": {
     "name": "AVIA AVALLON",
@@ -28640,24 +28560,24 @@
     "brand": "Total"
   },
   "89220001": {
-    "name": "ATAC BLENEAU",
-    "brand": "Atac"
+    "name": "AVIA BLENEAU",
+    "brand": "Avia"
   },
   "89250001": {
-    "name": "ATAC SEIGNELAY",
-    "brand": "Atac"
+    "name": "AVIA SEIGNELAY",
+    "brand": "Avia"
   },
   "89270001": {
-    "name": "ATAC VERMENTON",
-    "brand": "Atac"
+    "name": "BI1 VERMENTON",
+    "brand": "Bi1"
   },
   "89290001": {
-    "name": "ATAC CHAMPS SUR YONNE",
-    "brand": "Atac"
+    "name": "AVIA CHAMPS SUR YONNE",
+    "brand": "Avia"
   },
   "89290002": {
-    "name": "ATAC VINCELLES",
-    "brand": "Atac"
+    "name": "BI1 VINCELLES",
+    "brand": "Bi1"
   },
   "89290007": {
     "name": "RELAIS DU VENOY",
@@ -28677,7 +28597,7 @@
   },
   "89330002": {
     "name": "SARL PERRIGNON",
-    "brand": "Esso"
+    "brand": "Avia"
   },
   "89340001": {
     "name": "CARROSSERIE DU MARAIS MANSIOT",
@@ -28696,16 +28616,16 @@
     "brand": "Avia"
   },
   "89380001": {
-    "name": "ATAC APPOIGNY",
-    "brand": "Atac"
+    "name": "AVIA APPOIGNY",
+    "brand": "Avia"
   },
   "89380006": {
     "name": "RELAIS APPOIGNY",
     "brand": "Total Access"
   },
   "89400001": {
-    "name": "ATAC MIGENNES",
-    "brand": "Atac"
+    "name": "AVIA MIGENNES",
+    "brand": "Avia"
   },
   "89400002": {
     "name": "Esso MIGENNES",
@@ -28732,8 +28652,8 @@
     "brand": "Total Access"
   },
   "89520001": {
-    "name": "ATAC ST SAUVEUR EN PUISAYE",
-    "brand": "Atac"
+    "name": "AVIA ST SAUVEUR EN PUISAYE",
+    "brand": "Avia"
   },
   "89520002": {
     "name": "SARL MASSOT BOIDIN",
@@ -28748,8 +28668,8 @@
     "brand": "Total"
   },
   "89600001": {
-    "name": "ATAC ST FLORENTIN",
-    "brand": "Atac"
+    "name": "AVIA ST FLORENTIN",
+    "brand": "Avia"
   },
   "89600003": {
     "name": "AUTOFLO SA",
@@ -30275,8 +30195,8 @@
     "brand": "Total"
   },
   "95240003": {
-    "name": "Esso CORMEILLES EN PARISIS",
-    "brand": "Esso"
+    "name": "TotalEnergies CORMEILLES EN PARISIS",
+    "brand": "TotalEnergies"
   },
   "95260003": {
     "name": "RELAIS DES CIMENTS",
