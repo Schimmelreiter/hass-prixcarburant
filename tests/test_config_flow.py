@@ -277,7 +277,7 @@ async def test_options_delete_stations(
         minor_version=2,
     )
     await _setup(hass, entry)
-    entity_id = "sensor.esso_mission_beach_sp95"
+    entity_id = "sensor.station_esso_mission_beach_sp95"
     assert entity_registry.async_get(entity_id) is not None
     assert device_registry.async_get_devices(
         identifiers={(DOMAIN, str(MANUAL_STATION_ID))}

@@ -137,7 +137,7 @@ async def test_local_station_names(
 
     assert mock_config_entry.state is ConfigEntryState.LOADED
     # Station 99900001 isn't in the local files
-    assert hass.states.get("sensor.99900001_gazole") is not None
+    assert hass.states.get("sensor.station_99900001_gazole") is not None
 
 
 @pytest.mark.parametrize(
@@ -335,7 +335,7 @@ async def test_partial_update(
     assert all(prices[99800000 + index] == 1.7 for index in range(200))
     # The stations of the failed batch keep their last price
     assert all(prices[99800000 + index] == 1.659 for index in range(200, 250))
-    assert hass.states.get("sensor.99800210_gazole").state == "1.659"
+    assert hass.states.get("sensor.station_99800210_gazole").state == "1.659"
     # Every batch was requested, the failed one retried
     assert len(mock_api.requests) == requests + 2 + 3
 

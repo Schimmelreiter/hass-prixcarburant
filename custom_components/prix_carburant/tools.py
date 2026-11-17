@@ -39,8 +39,8 @@ STATIONS_NAME_OSM_URL = (
 )
 STATIONS_NAME_OSM_FILE = "stations_name_osm.csv"
 STATIONS_NAME_FILE = "stations_name.json"
-STATIONS_NAME_URL = "https://raw.githubusercontent.com/Schimmelreiter/hass-prixcarburant/refs/heads/master/custom_components/prix_carburant/stations_name.json"
-BRAND_LOGO_BASE_URL = "https://raw.githubusercontent.com/Schimmelreiter/hass-prixcarburant/refs/heads/master/brand_logos/"
+STATIONS_NAME_URL = "https://raw.githubusercontent.com/Aohzan/hass-prixcarburant/refs/heads/master/custom_components/prix_carburant/stations_name.json"
+BRAND_LOGO_BASE_URL = "https://raw.githubusercontent.com/Aohzan/hass-prixcarburant/refs/heads/master/brand_logos/"
 HTTP_OK = 200
 HTTP_TOO_MANY_REQUESTS = 429
 HTTP_INTERNAL_SERVER_ERROR = 500

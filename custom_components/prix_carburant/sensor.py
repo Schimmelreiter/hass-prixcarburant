@@ -111,6 +111,9 @@ def _station_name(station_id: int, station_info: StationData) -> str:
     else:
         station_name = str(station_id)
 
+    # Add 'Station' prefix if needed
+    if not station_name.lower().startswith(("station", "relais")):
+        station_name = f"Station {station_name}"
     return station_name
 
 

@@ -20,7 +20,7 @@ from homeassistant.helpers import entity_registry as er
 from .conftest import FakeApi
 
 GAZOLE_ENTITY_ID = "sensor.relais_de_la_gare_gazole"
-E85_ENTITY_ID = "sensor.carrefour_la_jolla_e85"
+E85_ENTITY_ID = "sensor.station_carrefour_la_jolla_e85"
 BUTTON_ENTITY_ID = "button.prix_carburant_refresh_prices"
 
 
